@@ -6,3 +6,7 @@ url: "https://lewdry.github.io"
 minima:
   nav_pages:
     - blog.md
+  social_links:
+    instagram: lewdry
+    github: lewdry
+    linkedin: lewis-dryburgh
