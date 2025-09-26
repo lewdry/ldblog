@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Train in vain, thoughts after trying out Retrieval-Augmented Generation"
+title: "Train in Vain: Thoughts on Retrieval-Augmented Generation"
 date: 2024-10-06
 ---
 
