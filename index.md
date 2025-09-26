@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I’m Lewis, a Scottish-Australian undercover librarian, living on Dharawal land in New South Wales. 
+Hello, I’m Lewis. A Scottish-Australian undercover librarian, living on Dharawal land in New South Wales. 
 
 I have over a decade of experience in delivering human-centred information and technology solutions in interesting organisations.
 
