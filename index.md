@@ -7,8 +7,6 @@ Hello, I’m Lewis. A Scottish-Australian undercover librarian, living on Dharaw
 
 I have over a decade of experience in delivering human-centred information and technology solutions in interesting organisations.
 
-![Lewis levitating](/ldblog/assets/images/img_5615-1.webp)
-
 <img src="/ldblog/assets/images/img_5615-1.webp" alt="Lewis levitating" style="width: 90%; display: block; margin: 0 auto;">
 
 I hold a masters degree in information management. My thesis *‘Do you even document, bro?’* explored the use of data in Australian tech start-ups.
