@@ -2,6 +2,8 @@
 layout: page
 ---
 
+#Hello!
+
 I’m Lewis, a Scottish-Australian undercover librarian, living on Dharawal land in New South Wales. 
 
 I have over a decade of experience in delivering human-centred information and technology solutions in interesting organisations.
@@ -16,7 +18,7 @@ All these years later, I’m still going on about it.
 
 If you’d like to get in touch, please:
 
-* [Connect with me on LinkedIn](http://linkedin.com/in/dryburghlewis/)
+* [Connect with me on LinkedIn](http://linkedin.com/in/lewis-dryburgh/)
 * [Find me on GitHub](https://github.com/lewdry)
 
 Thanks for stopping by!
