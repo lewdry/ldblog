@@ -1,8 +1,8 @@
 title: Lewis Dryburgh
 description: lewisdryburgh.com
 theme: minima
-baseurl: "/ldblog"
-url: "https://lewdry.github.io"
+baseurl: ""
+url: "https://ldblog.pages.dev"
 minima:
   nav_pages:
     - blog.md
