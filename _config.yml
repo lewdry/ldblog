@@ -1,5 +1,7 @@
 title: Hello I'm Lewis Dryburgh
-description: Lewis Dryburgh
 theme: minima
 baseurl: "/ldblog"
 url: "https://lewdry.github.io"
+minima:
+  nav_pages:
+    - blog.md
