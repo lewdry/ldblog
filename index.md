@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Hello!
 ---
-
-### Hello!
 
 I’m Lewis, a Scottish-Australian undercover librarian, living on Dharawal land in New South Wales. 
 
