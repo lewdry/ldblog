@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 I’m Lewis, a Scottish-Australian undercover librarian, living on Dharawal land in New South Wales. 
