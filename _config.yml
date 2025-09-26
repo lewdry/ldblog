@@ -7,6 +7,6 @@ minima:
   nav_pages:
     - blog.md
   social_links:
-    instagram: lewdry
-    github: lewdry
-    linkedin: lewis-dryburgh
+    - { platform: github, user_url: "https://github.com/lewdry" }
+    - { platform: instagram, user_url: "https://instagram.com/lewdry" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/lewis-dryburgh" }
