@@ -15,9 +15,6 @@ Before getting serious, I tried to be funny. In 2011 I co-wrote, co-produced and
 
 All these years later, I’m still going on about it.
 
-If you’d like to get in touch, please:
-
-* [Connect with me on LinkedIn](http://linkedin.com/in/lewis-dryburgh/)
-* [Find me on GitHub](https://github.com/lewdry)
+Feel free to reach out to me using the social links below. 
 
 Thanks for stopping by!
