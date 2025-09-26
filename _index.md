@@ -2,12 +2,6 @@
 layout: home
 ---
 
-Welcome to my blog! I write about cool stuff.
-
-## Recent thoughts
-
-Here are some things I've been thinking about lately...
-
 I’m Lewis, a Scottish-Australian undercover librarian, living on Dharawal land in New South Wales. I have over a decade of experience in delivering human-centred information and technology solutions in interesting organisations.
 
 I hold a masters degree in information management. My thesis ‘Do you even document, bro?’ explored the use of data in Australian tech start-ups.
