@@ -4,10 +4,10 @@ title: "Arnold Schwarzenegger: In His Own Words"
 date: 2012-11-24
 ---
 
-The following are extracts from ‘Total Recall: My Unbelievably True Life Story’, Arnold Schwarzenegger’s autobiography, presented verbatim without comment. Emphasis mine.
+The following are extracts from ‘Total Recall: My Unbelievably True Life Story’, Arnold Schwarzenegger’s autobiography, presented verbatim without comment, but with slightly **snarky bolding**.
 
 * “Up till then, I’d thought that only girls cry, but I ended up crying quietly in the dark for hours.”
-* “Our apartment was always way cleaner than anyone else’s I went to, men or women. **Especially women. They were like piglets.**”
+* “Our apartment was always way cleaner than anyone else’s I went to, men or women. **Especially women. They were like piglets**.”
 * “I took off my clothes, put on the oil, and started pumping up.”
 * “I’d watched every installment, soaking up his ideas like a thirsty **sponge**.”
 * “I was like a **sponge**, soaking it all in.”
