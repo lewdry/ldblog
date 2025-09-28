@@ -15,6 +15,6 @@ Before getting serious, I tried to be funny. In 2011 I co-wrote, co-produced and
 
 All these years later, I’m still going on about it.
 
-Feel free to reach out to me using the links below. 
+Please reach out to me using the links below. 
 
 Thanks for stopping by!
