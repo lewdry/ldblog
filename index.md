@@ -11,10 +11,13 @@ I have over a decade of experience in delivering human-centred information and t
 
 I hold a masters degree in information management. My thesis *‘Do you even document, bro?’* explored the use of data in Australian tech start-ups.
 
-Before getting serious, I tried to be funny. In 2011 I co-wrote, co-produced and performed the comedy show *‘The Quotidian Revue’* at the Edinburgh Fringe. Broadway Baby called it **“Assured, witty and erudite”**. The Independent on Sunday called me a **“showstopper“**.
+Before getting serious, I tried to be funny. In 2011 I co-wrote, co-produced and performed the comedy show *‘The Quotidian Revue’* at the Edinburgh Fringe. Broadway Baby called it **“Assured, witty and erudite”**. The Independent on Sunday called me a **“showstopper“**. All these years later, I’m still going on about it.
 
-All these years later, I’m still going on about it.
+I spend my spare time carrying children (usually mine), carving wood and making webapps like:
 
-Please reach out to me using the links below. 
+* [‘ArtFlip’](https://artflip.pages.dev), a site which generates random public domain artwork; and
+* ['Playpip'](https://playpip.games), some sort-of-games I built with & for my aforementioned children
+
+If you'd like to get in touch, please reach out to me using the links below. 
 
 Thanks for stopping by!
