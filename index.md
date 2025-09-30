@@ -13,10 +13,10 @@ I hold a masters degree in information management. My thesis *‘Do you even doc
 
 Before getting serious, I tried to be funny. In 2011 I co-wrote, co-produced and performed the comedy show *‘The Quotidian Revue’* at the Edinburgh Fringe. Broadway Baby called it **“Assured, witty and erudite”**. The Independent on Sunday called me a **“showstopper“**. All these years later, I’m still going on about it.
 
-I spend my spare time carrying children (usually mine), carving wood and making webapps, like:
+I spend my spare time carrying children (usually mine), cutting wood and making webapps, like:
 
 * [ArtFlip](https://artflip.pages.dev), a flipbook of random art from the public domain
-* [Playpip](https://playpip.games), a handful of sort-of-games I built for & with my kids
+* [Playpip](https://playpip.games), a handful of *sort-of-games* I have built for (*& with*) my kids
 
 If you'd like to get in touch, please reach out using the links below. 
 
