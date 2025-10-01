@@ -7,7 +7,7 @@ Hi, I’m Lewis, an undercover librarian living on Dharawal land in New South Wa
 
 I have over a decade of experience in delivering human-centred information and technology solutions in interesting organisations.
 
-<img src="{{ '/assets/images/lewis.webp' | relative_url }}" alt="Lewis levitates" style="width: 60%; display: block; margin: 0 auto;">
+<img src="{{ '/assets/images/lewis.webp' | relative_url }}" alt="Lewis levitates" style="width: 75%; display: block; margin: 0 auto;">
 
 I hold a masters degree in information management. My thesis *‘Do you even document, bro?’* explored the use of data in Australian tech start-ups.
 
