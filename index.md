@@ -5,7 +5,7 @@ title: About
 
 Hi, I’m Lewis, an undercover librarian living on Dharawal land in New South Wales.
 
-I have over a decade of experience in delivering human-centred information and technology solutions in interesting organisations.
+I have over a decade of experience in delivering human-centred information and technology solutions in interesting places.
 
 <img src="{{ '/assets/images/lewis.webp' | relative_url }}" alt="Lewis levitates" style="width: 80%; display: block; margin: 0 auto;">
 
@@ -15,7 +15,7 @@ Before getting serious, I tried to be funny. In 2011 I co-wrote, co-produced and
 
 I spend my spare time carrying children (usually mine), cutting wood and making webapps, like:
 
-* [ArtFlip](https://artflip.pages.dev), a flipbook of random art from the public domain
+* [ArtFlip](https://artflip.pages.dev), a flipbook of public domain artworks
 * [Playpip](https://playpip.games), a handful of *sort-of-games* I have built for (*& with*) my kids
 
 If you'd like to get in touch, please reach out using the links below. 
