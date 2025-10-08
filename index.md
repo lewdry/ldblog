@@ -15,7 +15,7 @@ Before getting serious, I tried to be funny. In 2011 I co-wrote, co-produced and
 
 I spend my spare time carrying children (usually mine), cutting wood and making webapps, like:
 
-* [ArtFlip](https://artflip.pages.dev), a flipbook of public domain artworks
+* [Artflip](https://artflip.pages.dev), a flipbook of public domain artworks
 * [Playpip](https://playpip.games), a handful of *sort-of-games* I have built for (*& with*) my kids
 
 If you'd like to get in touch, please reach out using the links below. 
