@@ -16,7 +16,7 @@ Before getting serious, I tried to be funny. In 2011 I co-wrote, co-produced and
 I spend my spare time carrying children (usually mine), or making things on the web like:
 
 * [Artflip](https://artflip.me), a collection of public domain art from around the world
-* [What We Know About You](https://whatweknow.pages.dev), see exactly what data your browser shares
+* [What We Know About You](https://whatweknow.pages.dev), an easy way to see what data your browser shares
 * [Playpip](https://playpip.games), a handful of games I have built for *and with* my children
 
 
