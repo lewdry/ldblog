@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Do You Even Document, Bro?"
-date: 2017-09-05
+date: 2017-11-30
 ---
 
-## Do you even document, bro? Information management in early-stage technology start-ups.
+### Do you even document, bro? Information management practices in technology start-ups.
 
 **Author Note**
 
@@ -12,6 +12,7 @@ This paper is based on research originally conducted in partial fulfilment of th
 
 The original dissertation has been adapted while maintaining the integrity of the research findings and methodology. If you'd like to read the original dissertation, please get in touch and I'll send you a PDF.
 
+<img src="{{ '/assets/images/documentbro2.jpeg' | relative_url }}" alt="DYEDB at Rails 2017" style="width: 80%; display: block; margin: 0 auto;">
 
 ## Abstract
 
@@ -181,6 +182,8 @@ The study involves a small, geographically localised sample of male founders and
 ## 7. Conclusion
 
 Technology start-ups manage business information using lightweight, tool-centric systems that prioritise collaboration, speed and accessibility. Formal governance frameworks are substituted by norms and automation. Cloud services, searchable communication platforms and wikis provide sufficient operational capability for small teams, though scalability risks remain. Understanding these practices expands knowledge of information management in emerging organisations and suggests new research trajectories for governance automation and digital-first knowledge capture.
+
+<img src="{{ '/assets/images/documentbro1.jpeg' | relative_url }}" alt="Reference time" style="width: 80%; display: block; margin: 0 auto;">
 
 ---
 
