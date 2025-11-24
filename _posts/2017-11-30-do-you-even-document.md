@@ -4,27 +4,28 @@ title: "Do You Even Document, Bro?"
 date: 2017-09-05
 ---
 
+## Do you even document, bro? Information management in early-stage technology start-ups.
 
-## Do you even document, bro? Data and information management in early-stage technology start-ups.
+**Author Note**
 
-This paper is based on research originally conducted in partial fulfilment of the requirements for the Master of Science degree in Information Management at The Robert Gordon University, completed in May 2017 under the supervision of Dr Graeme Baxter. The original dissertation has been adapted while maintaining the integrity of the research findings and methodology.
+This paper is based on research originally conducted in partial fulfilment of the requirements for the Master of Science degree in Information Management at The Robert Gordon University, completed in June 2017 under the supervision of Dr Graeme Baxter. The paper was presented at the RAILS Conference (Research Applications in Information and Library Studies) in November 2017.
 
-If for any reason you'd like to read my original dissertation, please get in touch.
+The original dissertation has been adapted while maintaining the integrity of the research findings and methodology. If you'd like to read the original dissertation, please get in touch and I'll send you a PDF.
 
 
 ## Abstract
 
-This paper investigates how early-stage technology start-ups manage internal business data and information. Semi-structured interviews were conducted with five founders across four Sydney-based start-ups, complemented by observation of routine information retrieval. Guided by grounded theory analysis, three characteristics of start-up information management were identified: use of consumer-level cloud SaaS, informal and culturally mediated governance and a strong orientation toward collaborative knowledge capture. Two novel practices emerged: extensive wiki-based documentation and automated enforcement of code conventions through linters. These practices appear to enable functional governance in resource-constrained environments, though questions remain about scalability, fragmentation and long-term retention. Implications for practice and future research directions are provided.
+This paper investigates how early-stage technology start-ups manage internal business information. Semi-structured interviews were conducted with five founders across four Sydney-based start-ups, complemented by observation of routine information retrieval. Guided by grounded theory analysis, six themes related to start-up information management were identified: use of digital-only information environments, chat-centric communication, informal governance anchored in cultural norms, search-first retrieval, retention by default with minimal deletion, and novel governance practices including wiki-based knowledge capture and automated code linters. These practices appear to enable functional governance in resource-constrained environments, though questions remain about scalability, fragmentation, and long-term retention. Implications for practice and future research directions are provided.
 
-**Keywords:** information management; ; data management; start-ups; information governance; knowledge sharing; cloud collaboration
+**Keywords:** information management; start-ups; information governance; knowledge sharing; cloud collaboration
 
 ---
 
 ## 1. Introduction
 
-Information is a core organisational resource, shaping performance and capabilities (Smallwood 2014). Research on information governance, knowledge management and organisational learning has largely centred on established firms with formal structures. In contrast, start-ups operate under constraints of speed, uncertainty and scarcity, typically lacking procedural maturity. Understanding how start-ups manage business-critical data and information is therefore an unresolved problem.
+Information is a core organisational resource, shaping performance and capabilities (Smallwood 2014). Research on information governance, knowledge management and organisational learning has largely centred on established firms with formal structures. In contrast, start-ups operate under constraints of speed, uncertainty and scarcity, typically lacking procedural maturity. Understanding how start-ups manage business-critical information is therefore an unresolved problem.
 
-This exploratory study examines the internal data and information practices of four Australian technology start-ups. The concept of business information refers to internal documentation, organisational knowledge and operational records, distinct from customer-facing product or service data. The study asks two core questions:
+This exploratory study examines the internal information practices of four Australian technology start-ups. The concept of business information refers to internal documentation, organisational knowledge and operational records, distinct from customer-facing product or service data. The study asks two core questions:
 
 - How do technology start-ups create, store, retrieve and dispose of internal business information?
 - Which practices or structures, if any, represent innovative approaches to information governance?
@@ -35,7 +36,7 @@ This exploratory study examines the internal data and information practices of f
 
 ### 2.1 Defining Start-ups
 
-Definitions of "start-up" are plural and contested. Zaech and Baldegger (2017) note the absence of any consensus definition. This study adopts a pragmatic approach aligned with Ries (2011), defining the start-up as a human institution oriented toward creation of new products or services under high uncertainty. Operational criteria supplement this definition: self-identification as a start-up, organisational age below five years, staff count below ten and pursuit of scalable software products.
+Definitions of "start-up" are plural and contested. Zaech and Baldegger (2017) note the absence of any consensus definition. This study adopts a pragmatic approach aligned with Ries (2011), defining the start-up as a human institution oriented toward creation of new products or services under high uncertainty. Operational criteria supplement this definition: self-identification as a start-up, organisational age below five years, staff count below ten, and pursuit of scalable software products.
 
 ### 2.2 Information Management in Small Organisations
 
@@ -83,7 +84,7 @@ Data were iteratively compared, refined and re-coded following grounded theory p
 
 ### 3.5 Ethics
 
-Ethical approval was obtained from the host institution. Participation was voluntary and confidential and observation components were optional. No commercially sensitive or proprietary data were requested or retained.
+Ethical approval was obtained from the host institution. Participation was voluntary and confidential, and observation components were optional. No commercially sensitive or proprietary data were requested or retained.
 
 ---
 
@@ -95,19 +96,17 @@ The findings reveal six core themes that jointly characterise information manage
 
 All firms operated exclusively with digital information. No physical files or paper systems were reported. Participants associated the digital-first stance with mobility, searchability and multi-user access.
 
-> "We never use paper. If something isn't online, it doesn't exist." (Carl, Caesium)
-
 Cloud-based tools formed the backbone of organisational information systems. Storage and communication relied on consumer SaaS: Google Drive, Dropbox, Slack, Facebook Messenger, Xero, InVision and Confluence.
 
 A consequence of this digital-first ecology was the normalised assumption that every artefact should be stored centrally and remain accessible to the whole team.
 
-> "We don't really think about where things go, we just put it in Drive and people can get it." (Alex, Sodium)
+"We don't really think about where things go, we just put it in Drive and people can get it." (Humphry, Sodium)
 
 ### 4.2 Chat-centric communication instead of email
 
 All organisations expressed a preference for persistent chat systems. Email was reserved for external-facing communication or formal interactions. Slack and Messenger played dual roles as communication channels and ad hoc knowledge repositories.
 
-> "Email just slows things down. If we're trying to get something done, it's Slack." (Max, Rubidium)
+One participant described Slack history as "half our documentation," reflecting the porous boundary between synchronous interaction and knowledge capture.
 
 One participant described Slack history as "half our documentation," reflecting the porous boundary between synchronous interaction and knowledge capture.
 
@@ -115,7 +114,7 @@ One participant described Slack history as "half our documentation," reflecting 
 
 No organisation had a formal information policy or documented governance framework. Governance practices were implicitly embedded through shared expectations, workplace trust and founder preferences.
 
-> "We just assume people will be sensible. If something is important, you'll put it somewhere where others can find it." (Pierre, Lithium)
+"We just assume people will be sensible. If something is important, you'll put it somewhere where others can find it." (William, Lithium)
 
 Despite the informal nature of governance, no participant reported incidents of permanent data loss. Participants framed governance as a cultural matter, not a procedural one.
 
@@ -123,7 +122,7 @@ Despite the informal nature of governance, no participant reported incidents of 
 
 Search constituted the default retrieval strategy. Participants seldom navigated folder hierarchies; they issued keywords to system-level search boxes. When search failed, they asked colleagues.
 
-> "The challenge is if you don't know it exists you can't search for it." (Carl, Caesium)
+Carl from Caesium noted that "if you don't know it exists then you can't search for it -- or it's very hard to search for it."
 
 Folder hierarchies existed but functioned as subjective taxonomies under the control of whoever created them. Naming conventions varied by individual or team and were rarely documented.
 
@@ -131,7 +130,7 @@ Folder hierarchies existed but functioned as subjective taxonomies under the con
 
 Deletion was infrequent and often avoided. Storage was viewed as inexpensive and future value unpredictable.
 
-> "Why delete something? Storage is cheap and you never know when you'll need it." (Alex, Sodium)
+Information is kept freely because "storage is cheap [and] space is cheap" (Robert, Rubidium).
 
 The exception was Rubidium, which deliberately deleted user analytics after thirty days to prioritise privacy and reject monetisation strategies incompatible with organisational values.
 
@@ -139,13 +138,9 @@ The exception was Rubidium, which deliberately deleted user analytics after thir
 
 Two distinctive practices emerged.
 
-**Comprehensive wiki.** Rubidium maintained a Confluence wiki containing technical notes, deployment procedures, design decisions and incidental knowledge. Contribution was actively encouraged.
+**Comprehensive wiki.** Rubidium maintained a Confluence wiki containing technical notes, deployment procedures, design decisions and incidental knowledge. Contribution was actively encouraged. The wiki served as a repository for information that might "otherwise end up as an email, as scratchings on a bit of paper, as a chat in an IM log, or something that never got shared at all."
 
-> "The smallest bit of info might save someone hours later — put it in the wiki." (Max, Rubidium)
-
-**Automated linters.** One organisation enforced more than 200 coding standards through a linter that blocked non-compliant commits. This embedded organisational rules into development workflows.
-
-> "If the code doesn't pass the linter, it doesn't get committed. That's the rule." (Pierre, Lithium)
+**Automated linters.** Rubidium enforced more than 200 coding standards through a linter that blocked non-compliant commits. This embedded organisational rules into development workflows and improved the quality and consistency of code documentation.
 
 These mechanisms served as tool-based governance, bypassing formal policy artefacts.
 
@@ -153,12 +148,12 @@ These mechanisms served as tool-based governance, bypassing formal policy artefa
 
 | Theme | Empirical indicators | Illustrative quotations |
 |-------|---------------------|------------------------|
-| Digital-only ecosystem | No paper files; SaaS platforms (Drive, Dropbox, Confluence) | "If something isn't online, it doesn't exist." (Caesium) |
-| Chat over email | Slack or Messenger as primary workspace | "Email just slows things down." (Rubidium) |
-| Informal governance | Norm-based expectations; trust | "We just assume people will be sensible." (Lithium) |
-| Search-based retrieval | Keyword-first; fallback to colleagues | "If you don't know it exists you can't search for it." (Caesium) |
-| Retention culture | Avoiding deletion; cheap storage | "Why delete something? Storage is cheap." (Sodium) |
-| Tool-enabled governance | Confluence wiki; linter enforcing rules | "If the code doesn't pass the linter, it doesn't get committed." (Lithium) |
+| Digital-only ecosystem | No paper files; SaaS platforms (Drive, Dropbox, Confluence) | All start-ups operated exclusively with digital information |
+| Chat over email | Slack or Messenger as primary workspace | Slack history described as "half our documentation" |
+| Informal governance | Norm-based expectations; trust | Humphry described information handling among colleagues as "generally pretty good... the people we've got are pretty sensible with their data collection and storage" (Sodium) |
+| Search-based retrieval | Keyword-first; fallback to colleagues | "if you don't know it exists then you can't search for it -- or it's very hard to search for it" (Carl, Caesium) |
+| Retention culture | Avoiding deletion; cheap storage | "storage is cheap [and] space is cheap" (Robert, Rubidium) |
+| Tool-enabled governance | Confluence wiki; linter enforcing rules | Linter with over 200 rules blocks non-compliant commits (Rubidium) |
 
 ---
 
