@@ -8,13 +8,15 @@ date: 2017-11-30
 
 **Author Note**
 
-This paper is based on research originally conducted in partial fulfilment of the requirements for the Master of Science degree in Information Management at The Robert Gordon University, completed in June 2017 under the supervision of Dr Graeme Baxter. The paper was presented at the RAILS Conference (Research Applications in Information and Library Studies) in November 2017.
+This paper is based on research originally conducted in partial fulfilment of the requirements for the Master of Science degree in Information Management at The Robert Gordon University, completed in June 2017 under the supervision of Dr Graeme Baxter. 
 
-The original dissertation has been adapted while maintaining the integrity of the research findings and methodology. If you'd like to read the original dissertation, please get in touch and I'll send you a PDF.
+The paper was presented at the RAILS Conference (Research Applications in Information and Library Studies) in November 2017.
 
 <img src="{{ '/assets/images/documentbro2.jpeg' | relative_url }}" alt="DYEDB at Rails 2017" style="width: 80%; display: block; margin: 0 auto;">
 
-## Abstract
+The original dissertation has been adapted while maintaining the integrity of the research findings and methodology. If you'd like to read the original dissertation, please get in touch and I'll send you a PDF.
+
+### Abstract
 
 This paper investigates how early-stage technology start-ups manage internal business information. Semi-structured interviews were conducted with five founders across four Sydney-based start-ups, complemented by observation of routine information retrieval. Guided by grounded theory analysis, six themes related to start-up information management were identified: use of digital-only information environments, chat-centric communication, informal governance anchored in cultural norms, search-first retrieval, retention by default with minimal deletion, and novel governance practices including wiki-based knowledge capture and automated code linters. These practices appear to enable functional governance in resource-constrained environments, though questions remain about scalability, fragmentation, and long-term retention. Implications for practice and future research directions are provided.
 
