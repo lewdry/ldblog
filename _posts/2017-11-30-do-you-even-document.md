@@ -6,15 +6,13 @@ date: 2017-11-30
 
 ### Do you even document, bro? Information management practices in technology start-ups.
 
-**Author Note**
-
-This paper is based on research originally conducted in partial fulfilment of the requirements for the Master of Science degree in Information Management at The Robert Gordon University, completed in June 2017 under the supervision of Dr Graeme Baxter. 
+This paper is based on research originally conducted for my Masters degree in Information Management at The Robert Gordon University, completed in June 2017.
 
 The paper was presented at the RAILS Conference (Research Applications in Information and Library Studies) in November 2017.
 
 <img src="{{ '/assets/images/documentbro2.jpeg' | relative_url }}" alt="DYEDB at Rails 2017" style="width: 80%; display: block; margin: 0 auto;">
 
-The original dissertation has been adapted while maintaining the integrity of the research findings and methodology. If you'd like to read the original dissertation, please get in touch and I'll send you a PDF.
+The original dissertation has been adapted while maintaining the integrity of the research findings and methodology. 
 
 ### Abstract
 
