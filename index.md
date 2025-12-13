@@ -17,8 +17,6 @@ I spend my spare time carrying children (usually mine), or making things on the 
 
 * [Artflip](https://artflip.me), public domain art from the world's best collections
 * [Playpip](https://playpip.games), a handful of games I have built for and with my children
-* [What We Know About You](https://whatweknow.pages.dev), see what data your browser shares
-
 
 Feel free to get in touch via the links below.
 
