@@ -17,7 +17,7 @@ I spend my spare time carrying children (usually mine), woodworking or making th
 
 * [Artflip](https://artflip.me), public domain art from the world's best collections
 * [Big Pause](https://bigpause.app), simple prompts for mindful moments
-* [Playpip](https://playpip.games), games I have built for (and with) my kids
+* [Playpip](https://playpip.games), games built for (and with) my kids
 
 Feel free to get in touch via the links below.
 
