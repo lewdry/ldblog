@@ -180,6 +180,7 @@ The study involves a small, geographically localised sample of male founders and
 - Include non-founder employees and cross-functional roles
 - Investigate automation in information governance at scale
 - Examine how retention cultures adapt to regulatory or investor pressure
+- Investigate the behaviours of a more geographically and gender diverse set of founders
 
 ---
 
