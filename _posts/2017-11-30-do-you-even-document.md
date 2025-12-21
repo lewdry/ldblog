@@ -4,6 +4,8 @@ title: "Do You Even Document, Bro?"
 date: 2017-11-30
 description: "Research-based analysis of how early-stage technology start-ups document and manage internal information, highlighting cloud-first and chat-centric practices."
 permalink: /2017-11-30-do-you-even-document
+tags: [information-management, startups, knowledge-management, documentation, governance]
+categories: [research, information-management]
 ---
 
 ### Do you even document, bro? Information management practices in technology start-ups.

@@ -2,8 +2,10 @@
 layout: post
 title: "Train in Vain: Thoughts on Retrieval-Augmented Generation"
 date: 2024-10-06
-description: "A practical walkthrough and reflections on building a Retrieval-Augmented Generation (RAG) pipeline, including costs, data choices, and governance considerations."
+description: "A practical walkthrough and reflections on building a Retrieval-Augmented Generation (RAG) pipeline, including costs, data choices and governance considerations."
 permalink: /2024-10-06-train-in-vain
+tags: [retrieval-augmented-generation, rag, ai, data-governance, vector-search]
+categories: [ai, engineering]
 ---
 
 I recently read this article on [‘Applied AI Software Engineering’](https://www.rossmcnairn.com/p/applied-ai-software-engineering) by Wordsmith CEO Ross McNairn which I found interesting. I thought I’d share here. 

@@ -2,8 +2,10 @@
 layout: post
 title: "Arnold Schwarzenegger: In His Own Words"
 date: 2012-11-24
-description: "Selected extracts from Arnold Schwarzenegger's memoir 'Total Recall'.
+description: "Selected extracts from Arnold Schwarzenegger's memoir 'Total Recall'."
 permalink: /2012-11-24-arnold-own-words
+tags: [book-excerpts, memoir, arnold-schwarzenegger, celebrity, pop-culture]
+categories: [culture, commentary]
 ---
 
 The following are extracts from ‘Total Recall: My Unbelievably True Life Story’, Arnold Schwarzenegger’s autobiography, presented verbatim without comment, but with slightly **snarky bolding**.
