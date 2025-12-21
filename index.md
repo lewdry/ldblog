@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+person_schema: true
 ---
 
 Hi, I’m Lewis, an undercover librarian living on Dharawal land in New South Wales.

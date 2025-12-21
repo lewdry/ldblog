@@ -1,11 +1,23 @@
 title: Lewis Dryburgh
-description: lewisdryburgh.com
-theme: minima
-baseurl: "/ldblog"
+tagline: Public sector data & technology, with a human-centred approach
+description: >
+  Australian public-sector data and technology practitioner working on data governance,
+  practical web development, and calm, human-centred tools.
 url: "https://lewdry.github.io"
+baseurl: "/ldblog"
+author:
+  name: Lewis Dryburgh
+social:
+  name: Lewis Dryburgh
+  links:
+    - https://www.linkedin.com/in/lewis-dryburgh
+    - https://github.com/lewdry
+theme: minima
 minima:
   nav_pages:
     - blog.md
 instagram_username: lewdry
 linkedin_username: lewis-dryburgh
 github_username: lewdry
+plugins:
+  - jekyll-seo-tag

@@ -1,0 +1,13 @@
+<head>
+  {% seo %}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  {% if site.description %}
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  {% endif %}
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  {% if page.person_schema %}
+    {% include person-schema.html %}
+  {% endif %}
+</head>
