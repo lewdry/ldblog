@@ -9,17 +9,19 @@ categories: [urbanism, travel]
 author: "Lewis Dryburgh"
 ---
 
-I gave this talk at the <a href="https://boringconference.wordpress.com" target="_blank" rel="noopener noreferrer">Boring Conference 2010</a> in London in December. It's about 1500 words, so make yourself comfortable.
+I originally presented the below as a talk at the [Inaugural Boring Conference](https://boringconference.wordpress.com) in London in December 2010. It's about a ten minute read (at least it was out loud), so make yourself comfortable.
 
-Hi, my name is Lewis Dryburgh and I am in love with the top floor of multi storey car parks, or car park roofs, as I’ll be referring to them throughout my talk. When I say that I love car park roofs, I don’t mean that I love to park on them. I’m not going to try and convince you that ‘of all the places you could possibly park a car, the top deck of a multi storey is the best’ although I do believe that. For me, car park roofs are much more than just vehicle depositaries – they are high rise civic squares, where pedestrians like us are free to park ourselves. I want you to visit car park roofs on foot, I want you to have responsible fun on them and I want you to love them like I do.
+Hi, my name is Lewis Dryburgh and I am in love with the top floor of multi storey car parks, or *car park roofs*, as I’ll be referring to them throughout this lecture. 
+
+When I say that I love car park roofs, I don’t mean that I love to park on them. I’m not going to try and convince you that ‘of all the places you could possibly park a car, the top deck of a multi storey is the best’ although I do believe that. For me, car park roofs are much more than just vehicle depositaries. They are high rise civic squares, where pedestrians like us are free to park ourselves. I want you to visit car park roofs on foot, I want you to have responsible fun on them and I want you to love them like I do.
 
 Before I go any further I should point out that I wrote this talk while at home in Aberdeen. Aberdeen is a city which is lucky enough to have five relatively tall and central multi storey car parks. I’m not sure if you know this but London is quite a bit bigger than Aberdeen – to give you an idea of scale, I’ve only been here for a couple of days and already I’ve seen twelve different McDonalds (Aberdeen only has four), which means that London is at least three times larger than Aberdeen. Despite my best efforts I’ve not actually seen a multi storey car park, which is worrying. If you’re a Londoner then I’m sorry, they do exist and they’re brilliant.
 
 The most boring thing about car park roofs is the way we use them. The top floors lie almost entirely unused during the week, only ever reaching capacity during peak weekend shopping hours, which means that for a considerable amount of time, a large portion of city centre real estate is lying dormant.
 
-Say there are 168 hours in a week, which there are – imagine that city centre car park roofs are full of vehicles between, say, 9am and 6pm on Saturdays and Sundays (which is actually quite a generous estimate, but averaged out it accounts for a little extra Christmas shopping traffic and any freak congestion that might occur), that means that car park roofs are only really in use 10.7% of the time. So there’s 89.3% wastage of these incredible spaces. Wastage? Yes, wastage.
+Say there are 168 hours in a week, which there are. Imagine that city centre car park roofs are full of vehicles between, say, 9am and 6pm on Saturdays and Sundays for shopping and recreation (which is actually quite a generous estimate, but averaged out it accounts for a little extra Christmas shopping traffic and any freak congestion that might occur), that means that car park roofs are only really in use 10.7% of the time. So there’s 89.3% wastage of these incredible spaces. Wastage? Yes, wastage.
 
-I’m sure by now you’re wondering why you’d want to bother visiting a car park roof without a car. It’s all about atmosphere. As I’ve explained, they’re not busy – in fact, they’re very not busy. Just by ascending a few floors you can feel completely alone while still surrounded by hundreds of thousands of people. They’re quiet too – the traffic below just a distant hum. There’s nowhere else in a city where you can claim so much personal outdoor space. Parks obviously come a close second, but they’re full of dog shit and they don’t offer the views which car park roofs do.
+I’m sure by now you’re wondering why you’d want to bother visiting a car park roof without a car. It’s all about atmosphere. As I’ve explained, they’re not busy – in fact, they’re *very* not busy. Just by ascending a few floors you can feel completely alone while still surrounded by hundreds of thousands of people. They’re quiet too – the traffic below just a distant hum. There’s nowhere else in a city where you can claim so much personal outdoor space. Parks perhaps come a close second, but they’re full of dog shit and they don’t offer the views which car park roofs do.
 
 The views from car park roofs are wonderful. If you want a bird’s eye view of a city then there are always going to be more popular vantage points than a multi storey – the usual landmarks and attractions, but I can’t help but find the views from these tourist traps a little unsatisfying. Too perfect and too polished. It almost seems like, from a corporate sponsored eagle’s nest, cities try too hard.
 
@@ -50,9 +52,9 @@ So now I’ve explained why you should visit car park roofs and how to defeat yo
 
 **DON’T: Take your pet.** If you take your pet to a car park roof then I will rent a hawk and destroy it.
 
-This concludes my presentation.
+This concludes my lecture.
 
-If you've made it this far then here's a reward, 30 seconds of one of my favourite Car Park Roofs.
+If you've made it this far then your reward is a 30 seconds vignette of one of my favourite Car Park Roofs.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
     <iframe src="https://www.youtube.com/embed/-rMR-gAQaJA" title="Car Park Roofs" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
