@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Just Checking: How We Look for Information in the Age of Generative AI"
+title: "Just Checking: Looking for Information in the Age of Generative AI"
 date: 2025-12-26
 description: "A review of recent research on how generative AI is reshaping information seeking behaviour, trust dynamics and verification strategies."
 tags: [generative-ai, information-seeking, trust, verification, research]
@@ -9,7 +9,7 @@ author: "Lewis Dryburgh"
 permalink: /2025-12-26-just-checking
 ---
 
-### Just Checking: How We Look for Information in the Age of Generative AI
+### Just Checking: Looking for Information in the Age of Generative AI
 
 Eight years ago I completed my masters in Information Management. Information Management (for me at least) was a hugely exciting discipline, blending psychology, technology and business in a way that helped me understand my own experience growing up in the increasingly digital world. I joined the workforce at a time when work was still (briefly) happening on paper, until it wasn't. I was interested in behaviour shifts and digitisation, and how people captured and shared (or didn't) knowledge. As I was completing my masters, I spent two years working as a systems trainer and business analyst, so these concepts were on my mind all the time.
 
@@ -110,7 +110,7 @@ The research suggests we're still figuring out how to navigate this environment.
 
 That's where we are. The bubble may burst, the hype may fade. The fundamental shift in how we seek and evaluate information appears to be here. Understanding it matters.
 
-**AI assistance disclosure**: While the analysis and perspectives here are mine, I used Gemini 3 Pro and Claude Opus 4.5 to synthesise some of the papers I'd collated, fact check my interpretations and (thankfully) format my references, a task I haven't missed. All the references below are real, non-hallucinated, open access research.
+**AI assistance disclosure**: While the analysis and perspectives here are mine, I used Gemini 3 Pro and Claude Opus 4.5 to code some of the papers I'd collated, fact check my interpretations and (thankfully) format my references, a task I haven't missed. All the references below are real, non-hallucinated, open access research papers.
 
 ### References
 
