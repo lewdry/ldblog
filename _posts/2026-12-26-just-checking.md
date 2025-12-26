@@ -110,7 +110,7 @@ The research suggests we're still figuring out how to navigate this environment.
 
 That's where we are. The bubble may burst, the hype may fade. The fundamental shift in how we seek and evaluate information appears to be here. Understanding it matters.
 
-**AI assistance disclosure**: While the analysis and perspectives here are mine, I used Gemini 3 Pro and Claude Opus 4.5 to code some of the papers I'd collated, fact check my interpretations and (thankfully) format my references, a task I haven't missed. All the references below are real, non-hallucinated, open access research papers.
+**AI assistance disclosure**: While the analysis and perspectives here are mine, I used Gemini 3 Pro and Claude Opus 4.5 to code some of the papers I'd collated, fact check my interpretations and (thankfully) format references. All the references below are real, non-hallucinated, open access research papers.
 
 ### References
 
