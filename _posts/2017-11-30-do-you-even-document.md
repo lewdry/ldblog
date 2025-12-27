@@ -10,7 +10,7 @@ categories: [research, information-management]
 
 ### Do you even document, bro? Information management practices in technology start-ups.
 
-[Fulltext PDF available: https://doi.org/10.5281/zenodo.18065515]
+*[Standlone paper(PDF), Zenodo](https://doi.org/10.5281/zenodo.18065515){:target="_blank" rel="noopener noreferrer"}*
 
 This paper is based on research originally conducted for my Masters degree in Information Management at The Robert Gordon University, completed in June 2017.
 

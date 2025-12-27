@@ -9,7 +9,7 @@ author: "Lewis Dryburgh"
 permalink: /2025-12-26-just-checking
 ---
 
-[Note, I've published this review as a standalone paper, removing my pre-amble and cleaning up the formatting. If you like waffle and first-person writing stay here. If not,the paper is available here: https://doi.org/10.5281/zenodo.18065988]
+*[Note: I've published this report as a standalone paper, with less waffle and tidier formatting. If you prefer a concise paper version, see the published review on Zenodo: [Zenodo, DOI:10.5281/zenodo.18065988](https://doi.org/10.5281/zenodo.18065988).]*
 
 Eight years ago I completed a master's degree in Information Management. Information Management (for me at least) was a hugely exciting discipline, combining elements of psychology, technology, business studies and library science in a way that helped me understand my own experience growing up in an increasingly digital world. I joined the workforce at a time when work was still happening on paper, until it suddenly wasn't. I was interested in behaviour shifts and digitisation, and how people captured and shared (or didn't) knowledge. For most of my degree (which I studied part time), I worked as a systems trainer, so these concepts were on my mind a lot.
 
