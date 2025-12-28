@@ -9,8 +9,6 @@ author: "Lewis Dryburgh"
 permalink: /2025-12-26-just-checking
 ---
 
-*[Note: I've published this report as a standalone paper, with less waffle and tidier formatting. If you prefer a concise paper version, see the published review on Zenodo: [Zenodo, DOI:10.5281/zenodo.18065988](https://doi.org/10.5281/zenodo.18065988).]*
-
 Eight years ago I completed a master's degree in Information Management. Information Management (for me at least) was a hugely exciting discipline, combining elements of psychology, technology, business studies and library science in a way that helped me understand my own experience growing up in an increasingly digital world. I joined the workforce at a time when work was still happening on paper, until it suddenly wasn't. I was interested in behaviour shifts and digitisation, and how people captured and shared (or didn't) knowledge. For most of my degree (which I studied part time), I worked as a systems trainer, so these concepts were on my mind a lot.
 
 For my dissertation research, I spent three months interviewing and shadowing startup founders about how they managed data and information, how they captured their corporate knowledge, retrieved it and used it. I was interested in the information seeking behaviours they embodied, and I wrote this up in a slightly more accessible form as ['Do you even document bro?'](https://lewisdryburgh.com/2017-11-30-do-you-even-document).
