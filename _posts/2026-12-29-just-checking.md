@@ -14,7 +14,7 @@ Eight years ago I completed a master's in Information Management, studying how p
 But I'm on my summer holidays and my kids are (slightly) more self sufficient. I've been working through a pile of recent papers trying understand how generative AI is changing information seeking. In 2017, the problem on my mind was getting people to externalise knowledge in a way it could be easily retrieved. Now information is abundant, generated faster than we can verify it, by systems that feel authoritative but may not be. I thought I'd attempt a desktop literature review of what's happening in the research, as a way of flexing some old muscles and attempting to stay current.
 
 <img src="{{ '/assets/images/tatsuo.jpeg' | relative_url }}" alt="Tatsuo Miyajima, Connecting with Everything, 2017" style="width: 85%; display: block; margin: 0 auto;"> 
-<p style="text-align: center;"><em>Tatsuo Miyajima, Connecting with Everything, 2017. Museum of Contemporary Art Australia, Sydney</em></p>
+<p style="text-align: center;"><em>Tatsuo Miyajima, Connecting with Everything, 2017</em></p>
 
 Like many people, I'm sure we're in an *AI bubble*. Companies are laying off staff with pomp and press releases to replace them with bots, then [quietly hiring the humans back](https://www.theinformation.com/articles/story-salesforces-declining-trust-llms-hit-nerve). Tech giants are capitalising on AI infrastructure then sheepishly [dropping sales targets for products people aren't buying](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/). That said, I do feel that the use of generative AI for search and retrieval is impactful and likely here to stay.
 
@@ -22,7 +22,7 @@ To find out what's happening, I searched for open-access empirical research publ
 
 I think we're in the middle of a serious shift and we're not handling it well.
 
-### Table of Contents
+### Jump to
 
 - [We're Not Searching Anymore, We're Conversing](#were-not-searching-anymore-were-conversing)
 - [Why We Trust (and Maybe Shouldn't)](#why-we-trust-and-maybe-shouldnt)
