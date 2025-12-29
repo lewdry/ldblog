@@ -14,13 +14,13 @@ Eight years ago I completed a master's in Information Management, studying how p
 But I'm on my summer holidays and my kids are (slightly) more self sufficient. I've been working through a pile of recent papers trying understand how generative AI is changing information seeking. In 2017, the problem on my mind getting people to externalise knowledge in a way it could be easily retrieved. Now information is abundant, generated faster than we can verify it, by systems that feel authoritative but may not be. I thought I'd attempt a desktop literature review of what's happening in the research, as a way of flexing some old muscles and attempting to stay current.
 
 <img src="{{ '/assets/images/tatsuo.jpeg' | relative_url }}" alt="Tatsuo Miyajima, Connecting with Everything, 2017" style="width: 85%; display: block; margin: 0 auto;"> 
-<p style="text-align: center;"><em>Tatsuo Miyajima, Connecting with Everything, 2017</em></p>
+<p style="text-align: center;"><em>Tatsuo Miyajima, Connecting with Everything, 2017. Museum of Contemporary Art Australia, Sydney</em></p>
 
-Like many people, I'm sure we're in an *AI bubble*. Companies are laying off staff with pomp and press releases to replace them with bots, then [quietly hiring the humans back](https://www.theinformation.com/articles/story-salesforces-declining-trust-llms-hit-nerve). Tech giants are capitalising on AI infrastructure then sheepishly [dropping sales targets for products people aren't buying](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/). That said, I do feel that the use of gen AI for search and retrieval is impactful and likely here to stay.
+Like many people, I'm sure we're in an *AI bubble*. Companies are laying off staff with pomp and press releases to replace them with bots, then [quietly hiring the humans back](https://www.theinformation.com/articles/story-salesforces-declining-trust-llms-hit-nerve). Tech giants are capitalising on AI infrastructure then sheepishly [dropping sales targets for products people aren't buying](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/). That said, I do feel that the use of generative AI for search and retrieval is impactful and likely here to stay.
 
-I focused on open-access empirical research published since 2023: studies that measured what people do with these tools. That gave me roughly a dozen substantive studies spanning experiments, surveys, physiological measurements and observational research. 
+To find out what's happening, I searched for open-access empirical research published since 2023: research that measured what people do with generative AI tools. That gave me roughly a dozen studies spanning experiments, surveys, physiological measurements and observation.
 
-I think we're in the middle of a serious shift and we're not handling it particularly well.
+I think we're in the middle of a serious shift and we're not handling it well.
 
 ### Table of Contents
 
@@ -49,7 +49,7 @@ This change is about more than just about switching tools. Pham et al. (2024) fo
 
 This conversational style matters because it changes what we're doing cognitively. Traditional search required what researchers call 'berrypicking' (Bates, 1989): you'd try different search terms, scan results, refine your query and gradually home in on what you needed. It was iterative and required you to stay critically engaged with whether you were finding good information. Conversation, by contrast, feels more passive. You ask, the AI answers. The loop closes.
 
-We're dealing with what philosopher Luciano Floridi (2024) calls a fundamental 'decoupling' between agency and intelligence. GenAI systems act as autonomous agents—they can perform complex tasks, generate responses and cite sources, but they have no understanding of what they're doing. For us as information seekers, this means we can't rely on the usual signals. A citation doesn't mean someone read and understood a source. A confident tone doesn't mean comprehension. We're interacting with something that *acts* intelligent without *being* intelligent, Our credibility senses weren't built for that.
+We're dealing with what philosopher Luciano Floridi (2024) calls a fundamental 'decoupling' between agency and intelligence. Gen AI systems act as autonomous agents—they can perform complex tasks, generate responses and cite sources, but they have no understanding of what they're doing. For us as information seekers, this means we can't rely on the usual signals. A citation doesn't mean someone read and understood a source. A confident tone doesn't mean comprehension. We're interacting with something that *acts* intelligent without *being* intelligent, Our credibility senses weren't built for that.
 
 The blending behaviours documented by Mayerhofer et al. (2025) are an adaptive response to an environment where the traditional markers of human intent and accountability have been severed. We're trying to restore verification processes by cross-referencing AI with traditional search, but even that strategy has limits when both increasingly draw from overlapping, AI-mediated sources.
 
@@ -112,11 +112,11 @@ This challenge is further amplified by training data overlap. When multiple AI s
 
 ### The Psychological Dimension
 
-None of this happens in a vacuum. Our emotional states shape how we seek and evaluate information. GenAI intersects with these dynamics in complex ways.
+None of this happens in a vacuum. Our emotional states shape how we seek and evaluate information. Generative AI intersects with these dynamics in complex ways.
 
 Research on anxiety and information seeking shows that anxious individuals seek information more frequently, particularly during periods of uncertainty or perceived threat (Charpentier et al., 2022). This heightened vigilance can be adaptive, but it can also lead to maladaptive patterns like excessive reassurance-seeking or rumination. The covid pandemic provided a real-world laboratory for observing these dynamics at scale.
 
-GenAI complicates this picture. Anxious seekers, motivated to resolve uncertainty quickly, may be more susceptible to misleading credibility cues. They might accept formal markers of authority (citations, confident tone) without deeper verification. The conversational nature of AI interactions can reduce the critical distance users typically maintain when evaluating sources, creating conditions where emotional rapport competes with scrutiny.
+Generative AI complicates this picture. Anxious seekers, motivated to resolve uncertainty quickly, may be more susceptible to misleading credibility cues. They might accept formal markers of authority (citations, confident tone) without deeper verification. The conversational nature of AI interactions can reduce the critical distance users typically maintain when evaluating sources, creating conditions where emotional rapport competes with scrutiny.
 
 ### What the Research Tells Us (So Far)
 
