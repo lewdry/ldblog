@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Just Checking: Information Seeking in the Age of Generative AI"
-date: 2025-12-26
+date: 2025-12-29
 description: "A review of recent research on how generative AI is reshaping information seeking behaviour, trust dynamics and verification strategies."
 tags: [generative-ai, information-seeking, trust, verification, research]
 categories: [AI, Information Management]
 author: ["Lewis Dryburgh"]
-permalink: /2025-12-26-just-checking
+permalink: /2025-12-29-just-checking
 ---
 
 Eight years ago I completed a master's in Information Management, studying how people capture and share knowledge in digital environments. For my dissertation, I shadowed startup founders to understand their information behaviours. I wrote it up as ['Do you even document bro?'](https://lewisdryburgh.com/2017-11-30-do-you-even-document) which I was lucky enough to present a few times. After that, I lectured for a couple of terms at the University of Technology Sydney before kids, covid and life intervened. I haven't meaningfully engaged in any study or research since then.
@@ -42,7 +42,7 @@ I think we're in the middle of a serious shift and we're not handling it particu
 ### We're Not Searching, We're Conversing
 Search behaviour is changing. Mayerhofer et al. (2025) describe what they call 'blending' behaviour: users don't just search anymore, they toggle between traditional search engines and conversational AI, often using one to verify the other. Their research shows people asking Google to fact-check ChatGPT or using ChatGPT to synthesise results from a Google search. It's a hybrid approach that suggests we haven't quite figured out which tool to trust for what.
 
-This change isn't just about switching tools. Pham et al. (2024) found that in e-commerce contexts, people use longer and more conversational queries when interacting with AI chatbots compared to traditional search. Instead of typing 'wireless headphones under $100', users are more likely to ask 'what are some good quality wireless headphones I can get for under $100?'. The interaction mirrors how you'd ask a shop assistant, rather than query a database.
+This change is about more than just about switching tools. Pham et al. (2024) found that in e-commerce contexts, people use longer and more conversational queries when interacting with AI chatbots compared to traditional search. Instead of typing 'wireless headphones under $100', users are more likely to ask 'what are some good quality wireless headphones I can get for under $100?'. The interaction mirrors how you'd ask a shop assistant, rather than query a database.
 
 This conversational style matters because it changes what we're doing cognitively. Traditional search required what researchers call 'berrypicking' (Bates, 1989): you'd try different search terms, scan results, refine your query and gradually home in on what you needed. It was iterative and required you to stay critically engaged with whether you were finding good information. Conversation, by contrast, feels more passive. You ask, the AI answers. The loop closes.
 
@@ -79,7 +79,7 @@ These numbers are specific to their lab setting and need validation in real-worl
 
 ### The Problem With Saying 'I Don't Know'
 
-One design solution you might think would help is having AI systems signal uncertainty. If the model isn't confident, it should say so.
+One design solution you might think would help is having AI systems signal uncertainty. If the model's not confident, it should say so.
 
 Li and Aral (2025) found that signalling uncertainty reduces trust and may discourage users from relying on correct information. The effect appears context-dependent, but honesty ("I'm not sure about this") conflicts with user expectations for responsive, confident assistance.
 
