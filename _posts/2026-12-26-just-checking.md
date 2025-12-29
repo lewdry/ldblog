@@ -199,7 +199,9 @@ We are probably in a bubble. Companies will continue quietly walking back their 
 
 ---
 
-**AI assistance disclosure**: While the analysis and perspectives here are mine, I did use some generative AI tools. I used Google's Notebook LM to help with coding some of the papers I'd collated. I used Anthropic's Claude Opus 4.5 to fact check my interpretations and format the references. All the sources below are real, non-hallucinated, open-access* research papers. (* With the exception of Bates' berrypicking, which is a classic.)
+**AI assistance disclosure**: While the analysis and perspectives here are mine, I did use some generative AI tools. I used Google's Notebook LM to help with coding some of the papers I'd collated. I used Anthropic's Claude Opus 4.5 to fact check my interpretations and format the references. All the sources below are real, non-hallucinated, open-access* research papers. 
+
+(* With the exception of Bates' berrypicking, which is a classic.)
 
 ---
 
