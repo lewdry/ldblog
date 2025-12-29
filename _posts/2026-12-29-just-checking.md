@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Just Checking: Information Seeking in the Age of Generative AI"
-date: 2025-12-29
+date: 2025-12-26
 description: "A review of recent research on how generative AI is reshaping information seeking behaviour, trust dynamics and verification strategies."
 tags: [generative-ai, information-seeking, trust, verification, research]
 categories: [AI, Information Management]
