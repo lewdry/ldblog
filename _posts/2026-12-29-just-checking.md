@@ -13,7 +13,7 @@ Eight years ago I completed a master's in Information Management, studying how p
 
 But I'm on my summer holidays and my kids are (slightly) more self sufficient. I've been working through a pile of recent papers trying understand how generative AI is changing information seeking. In 2017, the problem on my mind getting people to externalise knowledge in a way it could be easily retrieved. Now information is abundant, generated faster than we can verify it, by systems that feel authoritative but may not be. I thought I'd attempt a desktop literature review of what's happening in the research, as a way of flexing some old muscles and attempting to stay current.
 
-<img src="{{ '/assets/TatsuoMiyajima.jpeg' | relative_url }}" alt="Tatsuo Miyajima, Connecting with Everything, 2017" style="width: 85%; display: block; margin: 0 auto;"> 
+<img src="{{ '/assets/images/tatsuomiyajima.jpeg' | relative_url }}" alt="Tatsuo Miyajima, Connecting with Everything, 2017" style="width: 85%; display: block; margin: 0 auto;"> 
 
 *Tatsuo Miyajima, Connecting with Everything, 2017*
 
