@@ -10,8 +10,6 @@ categories: [research, information-management]
 
 ### Do you even document, bro? Information management practices in technology start-ups.
 
-*[Standlone paper(PDF), Zenodo](https://doi.org/10.5281/zenodo.18065515){:target="_blank" rel="noopener noreferrer"}*
-
 This paper is based on research originally conducted for my Masters degree in Information Management at The Robert Gordon University, completed in June 2017.
 
 The paper was presented at the RAILS Conference (Research Applications in Information and Library Studies) in November 2017.
@@ -20,9 +18,11 @@ The paper was presented at the RAILS Conference (Research Applications in Inform
 
 The original dissertation has been adapted while maintaining the integrity of the research findings and methodology. 
 
+To support citation and long-term access, this paper is also archived on Zenodo with a DOI (digital object identifier), *[available here](https://doi.org/10.5281/zenodo.18065515){:target="_blank" rel="noopener noreferrer"}*.
+
 ### Abstract
 
-This paper investigates how early-stage technology start-ups manage internal business information. Semi-structured interviews were conducted with five founders across four Sydney-based start-ups, complemented by observation of routine information retrieval. Guided by grounded theory analysis, six themes related to start-up information management were identified: use of digital-only information environments, chat-centric communication, informal governance anchored in cultural norms, search-first retrieval, retention by default with minimal deletion, and novel governance practices including wiki-based knowledge capture and automated code linters. These practices appear to enable functional governance in resource-constrained environments, though questions remain about scalability, fragmentation, and long-term retention. Implications for practice and future research directions are provided.
+This paper investigates how early-stage technology start-ups manage internal business information. Semi-structured interviews were conducted with five founders across four Sydney-based start-ups, complemented by observation of routine information retrieval. Guided by grounded theory analysis, six themes related to start-up information management were identified: use of digital-only information environments, chat-centric communication, informal governance anchored in cultural norms, search-first retrieval, retention by default with minimal deletion and novel governance practices including wiki-based knowledge capture and automated code linters. These practices appear to enable functional governance in resource-constrained environments, though questions remain about scalability, fragmentation and long-term retention. Implications for practice and future research directions are provided.
 
 **Keywords:** information management; start-ups; information governance; knowledge sharing; cloud collaboration
 
@@ -43,7 +43,7 @@ This exploratory study examines the internal information practices of four Austr
 
 ### 2.1 Defining Start-ups
 
-Definitions of "start-up" are plural and contested. Zaech and Baldegger (2017) note the absence of any consensus definition. This study adopts a pragmatic approach aligned with Ries (2011), defining the start-up as a human institution oriented toward creation of new products or services under high uncertainty. Operational criteria supplement this definition: self-identification as a start-up, organisational age below five years, staff count below ten, and pursuit of scalable software products.
+Definitions of "start-up" are plural and contested. Zaech and Baldegger (2017) note the absence of any consensus definition. This study adopts a pragmatic approach aligned with Ries (2011), defining the start-up as a human institution oriented toward creation of new products or services under high uncertainty. Operational criteria supplement this definition: self-identification as a start-up, organisational age below five years, staff count below ten and pursuit of scalable software products.
 
 ### 2.2 Information Management in Small Organisations
 
@@ -87,11 +87,11 @@ Two-stage coding was applied:
 - **Open coding:** descriptive and concept-level codes per transcript
 - **Focused coding:** aggregation into cross-case thematic categories aligned with the research questions
 
-Data were iteratively compared, refined and re-coded following grounded theory practice.
+Data was iteratively compared, refined and re-coded following grounded theory practice.
 
 ### 3.5 Ethics
 
-Ethical approval was obtained from the host institution. Participation was voluntary and confidential, and observation components were optional. No commercially sensitive or proprietary data were requested or retained.
+Ethical approval was obtained in line with Robert Gordon University's research ethics process. Participation was voluntary and confidential. Observation components were optional and participants were allowed to withdraw at any time. No commercially sensitive or proprietary data was requested or retained.
 
 ---
 
