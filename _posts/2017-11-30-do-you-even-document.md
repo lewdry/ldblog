@@ -6,6 +6,12 @@ description: "Research-based analysis of how early-stage technology start-ups do
 permalink: /2017-11-30-do-you-even-document
 tags: [information-management, startups, knowledge-management, documentation, governance]
 categories: [research, information-management]
+author: ["Lewis Dryburgh"]
+doi: "10.5281/zenodo.18065515"
+zenodo_url: "https://doi.org/10.5281/zenodo.18065515"
+publication_type: scholarly-article
+publisher: "Zenodo"
+citation_author: ["Lewis Dryburgh"]
 ---
 
 ### Do you even document, bro? Information management practices in technology start-ups.
@@ -16,9 +22,9 @@ The paper was presented at the RAILS Conference (Research Applications in Inform
 
 <img src="{{ '/assets/images/documentbro2.jpeg' | relative_url }}" alt="DYEDB at Rails 2017" style="width: 80%; display: block; margin: 0 auto;">
 
-The original dissertation has been adapted while maintaining the integrity of the research findings and methodology. 
+The original dissertation has been adapted while maintaining the integrity of the research findings and methodology.
 
-To support citation and long-term access, this paper is also archived on Zenodo with a DOI (digital object identifier), *[available here](https://doi.org/10.5281/zenodo.18065515){:target="_blank" rel="noopener noreferrer"}*.
+To support citation and long-term access, this paper is also *[archived on Zenodo with DOI 10.5281/zenodo.18065515](https://doi.org/10.5281/zenodo.18065515){:target="_blank" rel="noopener noreferrer"}*.
 
 ### Abstract
 

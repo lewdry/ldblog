@@ -6,6 +6,7 @@ description: "Selected extracts from Arnold Schwarzenegger's memoir 'Total Recal
 permalink: /2012-11-24-arnold-own-words
 tags: [book-excerpts, memoir, arnold-schwarzenegger, celebrity, pop-culture]
 categories: [culture, commentary]
+author: ["Lewis Dryburgh"]
 ---
 
 The following are extracts from ‘Total Recall: My Unbelievably True Life Story’, Arnold Schwarzenegger’s autobiography, presented verbatim without comment, but with slightly **snarky bolding**.

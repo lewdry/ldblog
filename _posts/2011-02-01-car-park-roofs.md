@@ -6,7 +6,7 @@ description: "An essay advocating for the top floors of multi-storey car parks a
 permalink: /2011-02-01-car-park-roofs
 tags: [car-park-roofs, car-parks, urban-design, public-spaces, urban-exploration]
 categories: [urbanism, travel]
-author: "Lewis Dryburgh"
+author: ["Lewis Dryburgh"]
 ---
 
 I originally presented the below as a talk at the [Inaugural Boring Conference](https://boringconference.wordpress.com) in London in December 2010. It's about a ten minute read (at least it was out loud), so make yourself comfortable.

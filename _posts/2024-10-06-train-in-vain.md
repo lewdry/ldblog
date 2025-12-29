@@ -6,6 +6,7 @@ description: "A practical walkthrough and reflections on building a Retrieval-Au
 permalink: /2024-10-06-train-in-vain
 tags: [retrieval-augmented-generation, rag, ai, data-governance, vector-search]
 categories: [ai, engineering]
+author: ["Lewis Dryburgh"]
 ---
 
 I recently read this article on [‘Applied AI Software Engineering’](https://www.rossmcnairn.com/p/applied-ai-software-engineering) by Wordsmith CEO Ross McNairn which I found interesting. I thought I’d share here. 
