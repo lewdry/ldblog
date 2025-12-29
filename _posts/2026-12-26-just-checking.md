@@ -15,7 +15,9 @@ But I'm on my summer holidays and my kids are (slightly) more self sufficient. I
 
 Like many, I'm sure we're in an *AI bubble*. Companies are laying off staff with pomp and press releases to replace them with bots, then [quietly hiring the humans back](https://www.theinformation.com/articles/story-salesforces-declining-trust-llms-hit-nerve). Tech giants are capitalising on AI infrastructure then sheepishly [dropping sales targets for products people aren't buying](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/). That said, I do feel that the use of gen AI for search and retrieval is impactful and likely here to stay.
 
-I focused on open-access empirical research published since 2023: studies that measured what people do with these tools. That gave me roughly a dozen substantive studies spanning experiments, surveys, physiological measurements and observational research. I think we're in the middle of a serious shift and we're not handling it particularly well.
+I focused on open-access empirical research published since 2023: studies that measured what people do with these tools. That gave me roughly a dozen substantive studies spanning experiments, surveys, physiological measurements and observational research. 
+
+I think we're in the middle of a serious shift and we're not handling it particularly well.
 
 ### Table of Contents
 
