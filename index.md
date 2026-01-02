@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Home
 person_schema: true
 ---
 
@@ -19,6 +19,10 @@ I spend my spare time carrying children (usually mine), woodworking or making th
 * [Artflip](https://artflip.me), explore public domain art from the world's best collections
 * [Big Pause](https://bigpause.app), simple prompts for mindful moments
 * [Playpip](https://playpip.games), games built for (and with) my kids
+
+I also maintain the *good news* feed **Ramah**:
+
+<iframe src="https://lewdry.github.io/ramah" width="100%" height="600px" style="border:none;" title="Ramah: Good news" loading="lazy"></iframe>
 
 Feel free to get in touch via the links below.
 
