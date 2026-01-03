@@ -20,9 +20,7 @@ I spend my spare time carrying children (usually mine), woodworking or making th
 * [Big Pause](https://bigpause.app), simple prompts for mindful moments
 * [Playpip](https://playpip.games), games built for (and with) my kids
 
-I also maintain the open source, good news feed **Ramah**, which collates positive stories from around the world.
-
-<iframe src="https://lewdry.github.io/ramah?theme=light" width="85%" height="400px" style="border:1px solid #4d4d4c;" title="Ramah: Good news" loading="lazy"></iframe>
+I also maintain the open source, good news feed **[Ramah](https://lewdry.github.io/ramah)**, which collates positive stories from around the world.
 
 Feel free to get in touch via the links below.
 
