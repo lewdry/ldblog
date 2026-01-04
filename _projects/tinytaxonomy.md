@@ -1,6 +1,6 @@
 ---
 title: Tiny Taxonomy
-order: 10
+order: 6
 image: /assets/images/projects/taxonomy.png
 description: Taxonomy generator for client-side text analysis.
 url: https://lewdry.github.io/tinytaxonomy/

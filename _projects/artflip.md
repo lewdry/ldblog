@@ -1,6 +1,6 @@
 ---
 title: Artflip
-order: 1
+order: 4
 image: /assets/images/artflip-flowers.png
 description: Public domain art from the world's best collections. Discover masterpieces with a single flip.
 url: https://artflip.me
