@@ -14,13 +14,7 @@ I hold a master's degree in information management. My thesis *‘Do you even do
 
 Before getting serious, I tried to be funny. In 2011 I co-wrote, co-produced and performed the comedy show *‘The Quotidian Revue’* at the Edinburgh Fringe. Broadway Baby called it **“Assured, witty and erudite”**. The Independent on Sunday called me a **“showstopper“**. All these years later, I’m still going on about it.
 
-I spend my spare time carrying children (usually mine), woodworking or making things on the web, like:
-
-* [Artflip](https://artflip.me), public domain art from the world's best collections
-* [Big Pause](https://bigpause.app), simple prompts for mindful moments
-* [Playpip](https://playpip.games), games built for (and with) my kids
-
-I also maintain the open source, good news feed **[Ramah](https://lewdry.github.io/ramah)**, which collates positive stories from around the world.
+When I’m not carrying children (usually mine), I’m either woodworking or building things for the web. You can [explore a selection of my projects here]({{ '/projects/' | relative_url }}).
 
 Feel free to get in touch via the links below.
 
