@@ -21,8 +21,8 @@ A selection of things I've built, tinkered with, or brought to life.
         {% endfor %}
       </div>
     {% endif %}
-    {% if project.data.url or project.url %}
-      <a href="{{ project.data.url | default: project.url }}" class="project-link" target="_blank" rel="noopener">View Project →</a>
+    {% if project.project_url %}
+      <a href="{{ project.project_url }}" class="project-link" target="_blank" rel="noopener">View Project →</a>
     {% endif %}
   </div>
 {% endfor %}
