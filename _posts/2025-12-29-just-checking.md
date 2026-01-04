@@ -42,14 +42,14 @@ I think we're in the middle of a serious shift and we're not handling it well.
   - [For Institutions: Governance That Addresses Differential Harm](#for-institutions-governance-that-addresses-differential-harm)
 - [Bringing It Back](#bringing-it-back)
 
-### We're Not Searching, We're Conversing
+### We're Not Searching Anymore, We're Conversing
 Search behaviour is changing. Mayerhofer et al. (2025) describe what they call 'blending' behaviour: users don't just search anymore, they toggle between traditional search engines and conversational AI, often using one to verify the other. Their research shows people asking Google to fact-check ChatGPT or using ChatGPT to synthesise results from a Google search. It's a hybrid approach that suggests we haven't quite figured out which tool to trust for what.
 
 This change is about more than just about switching tools. Pham et al. (2024) found that in e-commerce contexts, people use longer and more conversational queries when interacting with AI chatbots compared to traditional search. Instead of typing 'wireless headphones under $100', users are more likely to ask 'what are some good quality wireless headphones I can get for under $100?'. The interaction mirrors how you'd ask a shop assistant, rather than query a database.
 
 This conversational style matters because it changes what we're doing cognitively. Traditional search required what researchers call 'berrypicking' (Bates, 1989): you'd try different search terms, scan results, refine your query and gradually home in on what you needed. It was iterative and required you to stay critically engaged with whether you were finding good information. Conversation, by contrast, feels more passive. You ask, the AI answers. The loop closes.
 
-We're dealing with what philosopher Luciano Floridi (2024) calls a fundamental 'decoupling' between agency and intelligence. Gen AI systems act as autonomous agents—they can perform complex tasks, generate responses and cite sources, but they have no understanding of what they're doing. For us as information seekers, this means we can't rely on the usual signals. A citation doesn't mean someone read and understood a source. A confident tone doesn't mean comprehension. We're interacting with something that *acts* intelligent without *being* intelligent, Our credibility senses weren't built for that.
+We're dealing with what philosopher Luciano Floridi (2024) calls a fundamental 'decoupling' between agency and intelligence. Gen AI systems act as autonomous agents. They can perform complex tasks, generate responses and cite sources, but they have no understanding of what they're doing. For us as information seekers, this means we can't rely on the usual signals. A citation doesn't mean someone read and understood a source. A confident tone doesn't mean comprehension. We're interacting with something that *acts* intelligent without *being* intelligent, Our credibility senses weren't built for that.
 
 The blending behaviours documented by Mayerhofer et al. (2025) are an adaptive response to an environment where the traditional markers of human intent and accountability have been severed. We're trying to restore verification processes by cross-referencing AI with traditional search, but even that strategy has limits when both increasingly draw from overlapping, AI-mediated sources.
 
@@ -66,7 +66,7 @@ This is another instance of Floridi's decoupling. In traditional information env
 
 This vulnerability is compounded by anthropomorphism. When AI systems feel more human-like, whether through conversational tone or interface design, we trust them more (Yazan et al., 2025; Huschens et al., 2023). We're also more willing to trade accuracy for personalisation and conversational flow. If the AI sounds friendly and seems to understand us, we tend to forgive it for being wrong.
 
-This creates a genuine design tension: creating engaging, natural interactions makes systems feel more trustworthy, but that trust may not be justified. We're extending social trust features: rapport, conversational flow, apparent understanding, to non-social entities.
+This creates a genuine design tension: creating engaging, natural interactions makes systems feel more trustworthy, but that trust may not be justified. We're extending social trust: rapport, conversational flow, apparent understanding, to non-social entities.
 
 #### What Happens When We Know It's AI
 
@@ -78,7 +78,7 @@ This suggests that transparency matters enormously. We adjust our trust based on
 
 Sun et al. (2025) used eye-tracking, ECG, skin conductance and temperature sensors to measure physiological responses to health information. Machine learning models trained on these signals could predict whether someone trusted the information with 73% accuracy. They also found these responses could identify whether someone identified the content as AI or human-generated with 65% accuracy.
 
-These numbers are specific to their lab setting and need validation in real-world contexts, but they point to something important: our bodies respond to credibility cues before our conscious minds catch up. Trust isn't wholly cognitive, but operates at multiple levels simultaneously. Interface design, credibility rules we've carried over from other contexts and unconscious physiological responses are all shaping whether we believe what we're reading.
+These numbers are specific to their lab setting and need validation in real-world contexts, but they point to something important: our bodies respond to credibility cues before our conscious minds catch up. Trust isn't wholly cognitive—it operates at multiple levels simultaneously. Interface design, credibility rules we've carried over from other contexts and unconscious physiological responses are all shaping whether we believe what we're reading.
 
 ### The Problem With Saying 'I Don't Know'
 
@@ -114,7 +114,7 @@ This challenge is further amplified by training data overlap. When multiple AI s
 
 None of this happens in a vacuum. Our emotional states shape how we seek and evaluate information. Generative AI intersects with these dynamics in complex ways.
 
-Research on anxiety and information seeking shows that anxious individuals seek information more frequently, particularly during periods of uncertainty or perceived threat (Charpentier et al., 2022). This heightened vigilance can be adaptive, but it can also lead to maladaptive patterns like excessive reassurance-seeking or rumination. The covid pandemic provided a real-world laboratory for observing these dynamics at scale.
+Research on anxiety and information seeking—conducted before the current AI moment but directly relevant—shows that anxious individuals seek information more frequently, particularly during periods of uncertainty or perceived threat (Charpentier et al., 2022). This heightened vigilance can be adaptive, but it can also lead to maladaptive patterns like excessive reassurance-seeking or rumination. The covid pandemic provided a real-world laboratory for observing these dynamics at scale.
 
 Generative AI complicates this picture. Anxious seekers, motivated to resolve uncertainty quickly, may be more susceptible to misleading credibility cues. They might accept formal markers of authority (citations, confident tone) without deeper verification. The conversational nature of AI interactions can reduce the critical distance users typically maintain when evaluating sources, creating conditions where emotional rapport competes with scrutiny.
 
@@ -150,7 +150,7 @@ We need better ways to show people where information is coming from and how conf
 
 One possibility is contextual calibration: perhaps uncertainty signals should be presented differently depending on domain risk (health vs. entertainment), user experience level, or query type. But this requires sophisticated user modelling and risks creating inconsistent experiences that confuse rather than clarify.
 
-Citation practices present another design challenge. If users trust citations without verifying them, systems must either ensure all citations are genuine and relevant or avoid citation-like elements entirely. The current middle ground—where systems can generate plausible but fabricated references is the worst possible outcome. But guaranteeing citation accuracy is technically demanding. Removing citations might reduce the perceived credibility of accurate information.
+Citation practices present another design challenge. If users trust citations without verifying them, systems must either ensure all citations are genuine and relevant or avoid citation-like elements entirely. The current middle ground: where systems can generate plausible but fabricated references is the worst possible outcome. But guaranteeing citation accuracy is technically demanding. Removing citations might reduce the perceived credibility of accurate information.
 
 The anthropomorphism dilemma is perhaps the trickiest. Conversational, human-like interfaces increase engagement and user satisfaction but also increase misplaced trust. Do we design systems to feel less human-like, knowing this will reduce usability? Or do we accept the trust inflation as a cost of good user experience? There's no neutral ground. Every design choice has impacts.
 
@@ -188,18 +188,18 @@ The methodological challenges are significant too. Most research reviewed here i
 
 When I was researching startup founders eight years ago, the challenge was getting people to document what they knew. Knowledge management felt like a problem of capture and retrieval: making tacit knowledge explicit, building systems where people could find what others had learned. The cognitive work was in *getting* information into systems where it could be found.
 
-Now we're drowning in confident-sounding information from systems that don't know anything. The research suggests we haven't figured out how to navigate this environment yet. We're trusting the wrong signals: citations that mean nothing, conversational warmth that implies understanding that isn't there, formal presentation that masks fabrication. We're verifying less than we should, doing so unevenly across different populations. We face systemic vulnerabilities that individual scepticism can't fully address. The cognitive work has flipped: instead of focusing on capture, we to verify and sense-make in an environment where information is abundant but accountability is absent.
+Now we're drowning in confident-sounding information from systems that don't know anything. The research suggests we haven't figured out how to navigate this environment yet. We're trusting the wrong signals: citations that mean nothing, conversational warmth that implies understanding that isn't there, formal presentation that masks fabrication. We're verifying less than we should, doing so unevenly across different populations. We face systemic vulnerabilities that individual scepticism can't fully address. The cognitive work has flipped: instead of focusing on capture, we now need to verify and sense-make in an environment where information is abundant but accountability is absent.
 
 The practical work ahead isn't mysterious. We need:
 - better interface design that balances honesty with usability
 - smarter literacy programs that teach verification strategies for AI-mediated information
 - governance frameworks that address transparency and differential harm
 
-My information management training emphasised context, provenance and the socio-technical systems that shape how knowledge flows through organisations. Those frameworks feel newly relevant. Understanding where information comes from, who generated it and for what purpose, are more pressing questions than ever.
+My information management training emphasised context, provenance and the socio-technical systems that shape how knowledge flows through organisations. Those frameworks feel newly relevant. Understanding where information comes from, who generated it and for what purpose. These are more pressing questions than ever.
 
 We're entering a context where information can be generated by agents that act without understanding, where credibility markers can be fabricated, where verification strategies that worked for human-generated content fail systematically. 
 
-We are probably in a bubble. Companies will continue quietly walking back their AI promises. But pop or not, a change in how we seek and trust information is here to stay.
+We are probably in a bubble. Companies will continue quietly walking back their AI promises. But whether the bubble bursts or not or not, a change in how we seek and trust information is here to stay.
 
 
 ---
