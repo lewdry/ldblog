@@ -2,7 +2,7 @@
 title: Littledrop
 order: 9
 image: /assets/images/projects/littledrop-screenshot.png
-description: Hand-drawn, top-down scrolling game based around rewilding.
-project_url: https://littledrop.playpip.games
-built_with: [Svelte, Pencils]
+description: Hand-drawn, top-down, pond-rewilding fun
+project_url: https://lewdry.github.io/littledrop/
+built_with: [Svelte, Coloured Pencils]
 ---
