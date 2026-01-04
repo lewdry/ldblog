@@ -21,8 +21,10 @@ A selection of things I've built, tinkered with, or brought to life.
         {% endfor %}
       </div>
     {% endif %}
-    {% if project.url %}
-      <a href="{{ project.url }}" class="project-link" target="_blank" rel="noopener">View Project →</a>
+    {% if project.data.url %}
+      <a href="{{ project.data.url }}" class="project-link" target="_blank" rel="noopener">View Project →</a>
+    {% elsif project.url %}
+      <a href="{{ project.url | relative_url }}" class="project-link">View Project →</a>
     {% endif %}
   </div>
 {% endfor %}
