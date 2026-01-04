@@ -14,7 +14,12 @@ social:
 theme: minima
 minima:
   nav_pages:
+    - projects.md
     - blog.md
+
+collections:
+  projects:
+    output: false
 instagram_username: lewdry
 linkedin_username: lewis-dryburgh
 github_username: lewdry
