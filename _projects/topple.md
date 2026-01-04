@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Topple
 order: 8
 image: /assets/images/projects/topple-screenshot.png

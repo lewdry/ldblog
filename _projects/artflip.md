@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Artflip
 order: 4
 image: /assets/images/artflip-flowers.png

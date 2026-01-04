@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Where is Bobbie Futon
 order: 2
 image: /assets/images/projects/whereis-screenshot.png

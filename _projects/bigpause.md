@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Big Pause
 order: 10
 image: /assets/images/bigpause.png

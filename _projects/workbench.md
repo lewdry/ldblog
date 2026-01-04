@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Not-Quite-an-Anarchist Workbench
 order: 3
 image: /assets/images/projects/workbench.jpeg

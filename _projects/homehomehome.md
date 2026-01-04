@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Home Home Home
 order: 7
 image: /assets/images/projects/home-screenshot.png

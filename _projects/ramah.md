@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Ramah
 order: 11
 image: /assets/images/projects/ramah.png

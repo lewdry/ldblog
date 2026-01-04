@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Tiny Taxonomy
 order: 6
 image: /assets/images/projects/taxonomy.png

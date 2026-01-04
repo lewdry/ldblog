@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="project-detail">
+  <h1>{{ page.title }}</h1>
+  {% if page.image %}
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+  {% endif %}
+  
+  <div class="description">
+    {{ page.description }}
+  </div>
+
+  <div class="content">
+    {{ content }}
+  </div>
+
+  <a href="{{ page.project_url }}">Visit Live Project</a>
+</article>

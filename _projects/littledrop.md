@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Littledrop
 order: 9
 image: /assets/images/projects/littledrop-screenshot.png

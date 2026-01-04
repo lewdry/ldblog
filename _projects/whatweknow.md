@@ -1,4 +1,5 @@
 ---
+layout: project
 title: What We Know About You
 order: 5
 image: /assets/images/projects/whatweknow.png
