@@ -1,16 +1,18 @@
-title: Lewis Dryburgh
-tagline: Public sector data & technology, with a human-centred approach
+title: Lewis Dryburgh | Data Practitioner & Developer
+tagline: Bridging the gap between public sector data and human-centred technology.
 description: >
-  Australian public-sector data and technology practitioner working on data governance and calm, human-centred tools.
+  Lewis Dryburgh is a Sydney-based developer and public sector practitioner specialising in data governance, digital transformation and human-centred tools like Artflip and Big Pause.
 url: "https://lewisdryburgh.com"
 baseurl: ""
 author:
   name: Lewis Dryburgh
+  twitter: lewdryburgh
 social:
   name: Lewis Dryburgh
   links:
     - https://www.linkedin.com/in/lewis-dryburgh
     - https://github.com/lewdry
+    - https://medium.com/@bigwould
 theme: minima
 minima:
   nav_pages:
@@ -25,3 +27,9 @@ linkedin_username: lewis-dryburgh
 github_username: lewdry
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+sitemap:
+  exclude:
+    - /assets/
+    - /404.html

@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-A selection of things I've built, tinkered with, or brought to life.
+A selection of things I've built digitally or physically.
 
 <div class="projects-grid">
 {% assign sorted_projects = site.projects | sort: "order" | reverse %}
