@@ -118,7 +118,7 @@ I primarily work with:
   background: #f4f4f4;
   color: #555;
   padding: 0.25rem 0.75rem;
-  border-radius: 0px;
+  border-radius: 4px;
   font-size: 0.8rem;
   font-weight: 500;
   border: 1px solid #e0e0e0;
