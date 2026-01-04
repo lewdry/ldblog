@@ -21,7 +21,8 @@ minima:
 
 collections:
   projects:
-    output: false
+    output: true
+    permalink: /projects/:name/
 instagram_username: lewdry
 linkedin_username: lewis-dryburgh
 github_username: lewdry
