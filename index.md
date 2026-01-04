@@ -4,7 +4,7 @@ title: Home
 person_schema: true
 ---
 
-Hi, I’m Lewis, an data optimist, undercover librarian and developer living on Dharawal land in New South Wales.
+Hi, I’m Lewis, an undercover librarian and developer living on Dharawal land in New South Wales.
 
 I have over a decade of experience as a data and technology practitioner, delivering human-centred solutions in government agencies and regulated industries.
 
