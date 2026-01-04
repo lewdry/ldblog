@@ -14,7 +14,7 @@ I hold a master's degree in information management. My thesis *‘Do you even do
 
 Before getting serious, I tried to be funny. In 2011 I co-wrote, co-produced and performed the comedy show *‘The Quotidian Revue’* at the Edinburgh Fringe. Broadway Baby called it **“Assured, witty and erudite”**. The Independent on Sunday called me a **“showstopper“**. All these years later, I’m still going on about it.
 
-When I’m not carrying children (usually mine), I’m either woodworking or building things for the web. You can [explore a selection of my projects here]({{ '/projects/' | relative_url }}).
+When I’m not carrying children (usually mine), I’m either woodworking or building interactive, light and joyful experiences for the web. You can [explore a selection of my projects here]({{ '/projects/' | relative_url }}).
 
 Feel free to get in touch via the links below.
 
