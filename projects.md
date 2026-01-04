@@ -72,7 +72,7 @@ I primarily work with:
 
 .project-card {
   border: 1px solid #eee;
-  border-radius: 12px;
+  border-radius: 4px;
   padding: 1.5rem;
   background: #fff;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -89,7 +89,7 @@ I primarily work with:
   width: 100%;
   height: 180px;
   object-fit: cover;
-  border-radius: 6px;
+  border-radius: 2px;
   margin-bottom: 1.2rem;
 }
 
@@ -118,7 +118,7 @@ I primarily work with:
   background: #f4f4f4;
   color: #555;
   padding: 0.25rem 0.75rem;
-  border-radius: 20px;
+  border-radius: 10px;
   font-size: 0.8rem;
   font-weight: 500;
   border: 1px solid #e0e0e0;
