@@ -1,9 +1,9 @@
 ---
 layout: project
 title: What We Know About You
-order: 5
+order: 8
 image: /assets/images/projects/whatweknow.png
-description: A privacy-focused JavaScript application that visualizes browser metadata for transparency.
+description: A privacy-focused JavaScript tool that visualises browser metadata to show what data you're giving away.
 project_url: https://whatweknow.pages.dev/
 built_with: [JavaScript]
 ---

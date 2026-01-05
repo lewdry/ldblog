@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Littledrop
-order: 9
+order: 6
 image: /assets/images/projects/littledrop-screenshot.png
 description: Hand-drawn, top-down, pond-rewilding fun. Written in Svelte.
 project_url: https://lewdry.github.io/littledrop/

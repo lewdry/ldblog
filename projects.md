@@ -7,7 +7,7 @@ description: A portfolio of digital tools and wood craft by Lewis Dryburgh, span
 I build interactive tools that bridge the gap between complex information and human-centred design. I'm also an enthusiastic amateur woodworker.
 
 <div class="projects-grid">
-{% assign sorted_projects = site.projects | sort: "order" | reverse %}
+{% assign sorted_projects = site.projects | sort: "order" %}
 {% for project in sorted_projects %}
   <article class="project-card">
     {% if project.image %}
