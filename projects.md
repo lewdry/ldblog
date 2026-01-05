@@ -4,7 +4,7 @@ title: Projects
 description: A portfolio of digital tools and wood craft by Lewis Dryburgh, spanning Svelte development, data governance and woodworking.
 ---
 
-I build interactive tools that bridge the gap between complex information and human-centred design. I'm also an enthusiastic amateur woodworker.
+I love building interactive tools that turn public information into intuitive, human-centred experiences. I also like making things out of wood.
 
 <div class="projects-grid">
 {% assign sorted_projects = site.projects | sort: "order" %}
@@ -56,10 +56,10 @@ I build interactive tools that bridge the gap between complex information and hu
 ---
 
 ### **Technical Toolkit**
-I primarily work with:
-* **Frontend:** Svelte, JavaScript (ES6+), D3.js
-* **Backend & Data:** Python, SQL, RSS, NLP
-* **Design & Workflow:** Human-Centred Design, Data Governance
+I mainly work with:
+* **Frontend:** Svelte, JavaScript, Tailwind
+* **Backend & Data:** Python, Pandas, SQL, D3.js/Chart.js
+* **Design & Workflow:** Human-Centred Design, Civic Tech
 
 <style>
 .projects-grid {
