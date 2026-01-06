@@ -9,7 +9,7 @@ author: ["Lewis Dryburgh"]
 permalink: /2026-01-06-drowning-in-data
 ---
 
-This is the second in a series of... well, at least two desktop literature reviews I've been writing to flex my withered grey cells.
+This is the second in a series of... well, at least two desktop literature reviews I've been writing to agitate my withered grey cells.
 
 While I've had some time and space to trawl through recent open-access papers over the Australian summer holidays, I am expecting the arrival of a third child in February. So I make no commitments to future output, but reader, I am enjoying hard-staring at interesting topics. 
 
