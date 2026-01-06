@@ -3,7 +3,7 @@ layout: project
 title: Topple
 order: 10
 image: /assets/images/projects/topple-screenshot.png
-description: A physics-based stacking game built with JavaScript and Vite.
+description: A physics-based stacking game built with JavaScript and patience.
 project_url: https://topple.playpip.games
-built_with: [JavaScript, Vite]
+built_with: [JavaScript]
 ---
