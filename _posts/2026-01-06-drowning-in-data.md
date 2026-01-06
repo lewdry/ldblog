@@ -101,7 +101,7 @@ Importantly, many misinformation studies are crisis-specific (COVID-19, election
 
 Social media companies bear significant responsibility for these dynamics. Their algorithms prioritise engaging content, which often means sensational or emotionally charged material, regardless of accuracy (Denniss & Lindberg, 2025). The limited commitment to content moderation, combined with financial incentives that reward engagement over accuracy, means that misinformation continues to thrive despite growing awareness of the problem.
 
-### **What Can We Do About It?**
+### What Can We Do About It?
 
 The picture painted by this research might seem bleak, but there are evidence-based strategies for combating information overload and improving our decision-making. **However, the weight of evidence suggests that individual-level solutions, while helpful, cannot address a problem whose roots are fundamentally systemic.**
 
