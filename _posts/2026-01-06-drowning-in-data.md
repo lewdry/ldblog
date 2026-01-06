@@ -24,7 +24,7 @@ In hindsight, 2017 seems like the good old days compared to where we are now. (C
 
 - We didn't know about Cambridge Analytica's voter manipulation (although we'd been hit by it), they were finally exposed in March 2018.
 - We had no idea the possible depths and volume of misinformation which would emerge through the covid pandemic.
-- TikTok was barely up and running, with *only* 100 million users at the end of 2016 (vs ~1.5 billion today)
+- TikTok was barely up and running, with *only* 100 million users at the end of 2016 (vs ~1.5 billion today).
 - The once interesting, influential and beloved (to some) Twitter was independent and years away from the 'free speech' takeover and transition to X.
 
 Phew. And that's not to mention the slop we're being served by AI, because I'm trying not to mention it this month.
