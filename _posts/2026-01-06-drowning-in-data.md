@@ -151,9 +151,8 @@ The research reviewed here points to several critical gaps that should concern a
 
 Answering these questions will require researchers to gain ethical access to platform data, transparency about algorithmic systems, and longitudinal study designs that follow users over months or years rather than minutes or hours. Until then, we're making policy and design decisions with incomplete maps.
 
----
 
- While the analysis and perspectives here are mine, I did use generative AI tools to develop this post. I used Google's Notebook LM to help with coding the papers I'd collated. I used Anthropic's Claude Opus 4.5 to fact check my interpretations and format the references. All the sources below are real, non-hallucinated, publicly available papers. 
+---
 
 **AI assistance disclosure**: While the analysis and perspectives here are mine, I used generative AI tools to support the research process. I used Google's Notebook LM to help with coding and organising the papers I'd collated. I used Anthropic's Claude Sonnet 4.5 to verify that my interpretations aligned with what the papers actually claimed, to check citation accuracy, and to format the references consistently. All the sources below are real, publicly available papers. The synthesis, argument and conclusions are my own.
 
