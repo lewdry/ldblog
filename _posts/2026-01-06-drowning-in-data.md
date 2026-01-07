@@ -85,9 +85,9 @@ The moderators of choice overload are complex. Research suggests it's not just a
 
 ### The Social Media Factor
 
-If information overload was a problem before social media, it's become a crisis in the age of endless scrolling. The platforms we use daily are specifically designed to maximise engagement, which often means maximizing the amount of stimulating content we consume. And the effects on our cognition and mental health are becoming increasingly clear.
+If information overload was a problem before social media, it's become a crisis in the age of endless scrolling. The platforms we use daily are designed to maximise engagement, which means maximising the amount of stimulating content we consume. The effects on our cognition and mental health are becoming increasingly clear.
 
-A recent systematic review and meta-analysis of short-form video use (think TikTok, Instagram Reels) found that increased use is associated with poorer cognition, particularly attention and inhibitory control, as well as higher levels of stress and anxiety (Nguyen et al., 2025). This matters for decision-making because attentional control is exactly what we need to sift through information carefully and resist impulsive choices.
+A recent systematic review and meta-analysis of short-form video use (e.g. TikTok, Instagram Reels) found that increased use is associated with poorer cognition, particularly attention and inhibitory control, as well as higher levels of stress and anxiety (Nguyen et al., 2025). This matters for decision-making because attentional control is exactly what we need to sift through information carefully and resist impulsive choices.
 
 Social media also creates powerful dynamics of **social influence** that can distort our judgment. A large-scale experiment on a social news platform found that positive ratings created significant herding effects, when people saw that others had upvoted a comment, they were 32% more likely to upvote it themselves, regardless of the comment's actual quality (Muchnik et al., 2013). This positive herding accumulated over time, inflating final ratings by an average of 25%. Interestingly, negative herding was naturally corrected by users, but positive bias wasn't. This asymmetry helps explain why misinformation that gets early positive engagement can spread so rapidly.
 
@@ -115,7 +115,7 @@ At the individual level, several approaches can help at the margins. **Developin
 
 Research on AI-assisted decision-making suggests that when tools are well-designed and transparent about limitations, humans can sometimes achieve **complementary performance** better than either humans or AI alone (Steyvers & Kumar, 2024). But this requires building appropriate mental models of AI capabilities, which takes time and effort.
 
-**The problem**: These strategies place the burden on individuals to resist environments specifically engineered to exploit cognitive vulnerabilities. As this review has shown, our working memory constraints (Miller, 1956), reliance on heuristics (Tversky & Kahneman, 1974), susceptibility to social influence (Muchnik et al., 2013), and limited attentional control (Nguyen et al., 2025) are features of human cognition, not bugs we can simply decide to overcome. Asking individuals to think their way out of information overload is like asking them to think their way out of near-sightedness.
+**The problem**: These strategies place the burden on individuals to resist environments specifically engineered to exploit cognitive vulnerabilities. As this review has shown, our working memory constraints (Miller, 1956), reliance on heuristics (Tversky & Kahneman, 1974), susceptibility to social influence (Muchnik et al., 2013), and limited attentional control (Nguyen et al., 2025) are intrinsic features of human cognition. Asking individuals to think their way out of information overload is like asking them to think their way out of near-sightedness.
 
 #### Structural and Design Interventions (Where the Evidence Points)
 
