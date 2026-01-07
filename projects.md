@@ -59,7 +59,6 @@ I love building interactive tools that turn public information into intuitive, h
 I mainly work with:
 * **Frontend:** Svelte, JavaScript, Tailwind
 * **Backend & Data:** Python, Pandas, SQL, D3.js/Chart.js
-* **Design & Workflow:** Human-Centred Design, Civic Tech
 
 <style>
 .projects-grid {
