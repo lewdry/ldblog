@@ -3,6 +3,10 @@ layout: post
 title: "Just Checking: Information Seeking and Trust in the Age of Generative AI"
 date: 2025-12-29
 description: "A review of recent research on how generative AI is reshaping information seeking behaviour, trust dynamics and verification strategies."
+doi: "10.13140/RG.2.2.11922.93126"
+researchgate_url: "https://doi.org/10.13140/RG.2.2.11922.93126"
+publication_type: scholarly-article
+publisher: "ResearchGate"
 tags: [generative-ai, information-seeking, trust, verification, research]
 categories: [AI, Information Management]
 author: ["Lewis Dryburgh"]

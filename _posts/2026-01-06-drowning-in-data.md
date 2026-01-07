@@ -3,6 +3,10 @@ layout: post
 title: "Drowning in Data: How Information Overload is Impacting our Decision-Making"
 date: 2026-01-06
 description: "A review of recent research on information overload, decision paralysis, cognitive limits and how social media and misinformation affect our ability to make good decisions."
+doi: "10.13140/RG.2.2.14439.51360"
+researchgate_url: "https://doi.org/10.13140/RG.2.2.14439.51360"
+publication_type: scholarly-article
+publisher: "ResearchGate"
 tags: [information-overload, decision-making, cognitive-bias, choice-overload, social-media, misinformation, bounded-rationality, research]
 categories: [Information overload, decision making]
 author: ["Lewis Dryburgh"]
