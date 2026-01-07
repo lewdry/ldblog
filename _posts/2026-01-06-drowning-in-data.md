@@ -23,7 +23,7 @@ This is a term which has rattled around my head for almost a decade. Both in my 
 In hindsight, 2017 seems like the good old days compared to where we are now. (Cue The Office quote: "I wish there was a way to know you were in the good old days..."). If you can cast your mind back to that innocent era:
 
 - We didn't know about Cambridge Analytica's voter manipulation (although we'd been hit by it), they were finally exposed in March 2018.
-- We had no idea the possible depths and volume of misinformation which would emerge through the covid pandemic.
+- We had no idea the possible depths and volume of misinformation which would emerge through the COVID-19 pandemic.
 - TikTok was barely up and running, with *only* 100 million users at the end of 2016 (vs ~1.5 billion today).
 - The once interesting, influential and beloved (to some) Twitter was independent and years away from the 'free speech' takeover and transition to X.
 
@@ -51,23 +51,23 @@ This review argues that contemporary information overload is not simply a proble
 
 ### Scope and approach
 
-This is a desktop literature review drawing primarily on recent (2021-2025), open-access research across psychology, information systems, media studies and public health. Sources were identified through targeted searches of Google Scholar and publisher databases using terms including information overload, choice overload, decision paralysis, misinformation sharing and social media cognition. Foundational “classic” works are included where they remain theoretically influential (e.g. Simon, Miller, Kahneman & Tversky). The review prioritises empirical studies, systematic reviews and meta-analyses, but is not exhaustive.
+This is a desktop literature review drawing primarily on recent (2021-2025), open-access research across psychology, information systems, media studies and public health. Sources were identified through targeted searches of Google Scholar and publisher databases using terms including information overload, choice overload, decision paralysis, misinformation sharing and social media cognition. Foundational “classic” works are included where they remain theoretically influential (e.g. Simon, Miller, Tversky & Kahneman). The review prioritises empirical studies, systematic reviews and meta-analyses, but is not exhaustive.
 
 ### The Information Paradox
 
 We've never had more information at our fingertips. A few taps on a smartphone can summon answers to virtually any question, from restaurant reviews to medical advice to breaking news from around the globe. Yet paradoxically, all this access to information hasn't made us better decision-makers. If anything, the sheer volume of information we consume daily might be making our decisions worse.
 
-Researchers have been studying **information overload**, for decades. The concept describes what happens when the amount of information available exceeds our capacity to process it effectively (Eppler & Mengis, 2004). It's like trying to drink from a fire hose: there's plenty of water, but you're more likely to get knocked over than hydrated. As the digital landscape has exploded with social media, 24/7 news cycles and AI-generated content, understanding how information overload affects our decision-making and what we can do about it, has become more important than ever.
+Researchers have been studying **information overload** for decades. The concept describes what happens when the amount of information available exceeds our capacity to process it effectively (Eppler & Mengis, 2004). It's like trying to drink from a fire hose: there's plenty of water, but you're more likely to get knocked over than hydrated. As the digital landscape has exploded with social media, 24/7 news cycles and AI-generated content, understanding how information overload affects our decision-making and what we can do about it, has become increasingly important.
 
 ### The Limits of the Human Mind
 
 To understand why information overload is such a problem, we need to first appreciate the limitations of human cognition. Back in 1956, psychologist George Miller published his famous paper on "The Magical Number Seven, Plus or Minus Two," demonstrating that human working memory can only hold about seven pieces of information at a time (Miller, 1956). This is a feature of how our brains evolved, but it creates a fundamental bottleneck when we're faced with the endless streams of data flowing through modern life.
 
-This bottleneck highlights a crucial distinction made by Clay Shirky (2008) nearly two decades ago: 'It’s not information overload. It’s filter failure.' In the past, physical and economic barriers acted as filters. Publishers, editors,and limited broadcast hours curated what reached us. Today, those external filters have collapsed, leaving our biological filters to do all the heavy lifting against an infinite stream. We are trying to use a biological sieve to hold back a digital tsunami.
+This bottleneck highlights a crucial distinction made by Clay Shirky (2008) nearly two decades ago: 'It’s not information overload. It’s filter failure.' In the past, physical and economic barriers acted as filters. Publishers, editors and limited broadcast hours curated what reached us. Today, those external filters have collapsed, leaving our biological filters to do all the heavy lifting against an infinite stream. We are trying to use a biological sieve to hold back a digital tsunami.
 
 Herbert Simon, who would later win a Nobel Prize for his work on decision-making, recognised this problem early. He proposed the concept of **bounded rationality**: the idea that humans don't make perfectly rational decisions because we simply don't have the cognitive resources to weigh every option (Simon, 1955). Instead, we "satisfice": we look for options that are *good enough* rather than optimal. This works fine when we're choosing what to have for lunch, but it can lead to serious problems when the stakes are higher.
 
-When we're overloaded with information, our decision-making shortcuts can backfire spectacularly. Kahneman and Tversky's groundbreaking research on heuristics and biases showed that humans rely on mental shortcuts, rules of thumb, to make judgments, especially under uncertainty (Tversky & Kahneman, 1974). These heuristics are usually helpful, but they can lead us astray. The **availability heuristic**, for example, causes us to overestimate the likelihood of events that come easily to mind. So if you've just read five news articles about plane crashes, you might overestimate the danger of flying, even though the statistics say otherwise. Information overload feeds these biases by constantly flooding our minds with memorable, emotionally charged content.
+When we're overloaded with information, our decision-making shortcuts can backfire spectacularly. Tversky and Kahneman's groundbreaking research on heuristics and biases showed that humans rely on mental shortcuts, rules of thumb, to make judgments, especially under uncertainty (Tversky & Kahneman, 1974). These heuristics are usually helpful, but they can lead us astray. The **availability heuristic**, for example, causes us to overestimate the likelihood of events that come easily to mind. So if you've just read five news articles about plane crashes, you might overestimate the danger of flying, even though the statistics say otherwise. Information overload feeds these biases by constantly flooding our minds with memorable, emotionally charged content.
 
 ### Decision Paralysis: Too Many Choices, Too Little Action
 
@@ -81,7 +81,7 @@ The moderators of choice overload are complex. Research suggests it's not just a
 
 ### The Social Media Factor
 
-If information overload was a problem before social media, it's become a crisis in the age of endless scrolling. The platforms we use daily are specifically designed to maximize engagement, which often means maximizing the amount of stimulating content we consume. And the effects on our cognition and mental health are becoming increasingly clear.
+If information overload was a problem before social media, it's become a crisis in the age of endless scrolling. The platforms we use daily are specifically designed to maximise engagement, which often means maximizing the amount of stimulating content we consume. And the effects on our cognition and mental health are becoming increasingly clear.
 
 A recent systematic review and meta-analysis of short-form video use (think TikTok, Instagram Reels) found that increased use is associated with poorer cognition, particularly attention and inhibitory control, as well as higher levels of stress and anxiety (Nguyen et al., 2025). This matters for decision-making because attentional control is exactly what we need to sift through information carefully and resist impulsive choices.
 
@@ -91,7 +91,7 @@ A recurring limitation across this literature is its reliance on correlational d
 
 ### The Misinformation Crisis
 
-The combination of information overload, cognitive biases and social influence creates fertile ground for misinformation. When people feel overwhelmed by information, particularly during crises like the covid pandemic, they're more likely to share content without verifying it (Huang et al., 2022). This isn't because they're careless or stupid; it's a natural coping mechanism. Sharing information creates a sense of control and connection during uncertain times. But it also means that false or misleading content can spread rapidly.
+The combination of information overload, cognitive biases and social influence creates fertile ground for misinformation. When people feel overwhelmed by information, particularly during crises like the COVID-19 pandemic, they're more likely to share content without verifying it (Huang et al., 2022). This isn't because they're careless or stupid; it's a natural coping mechanism. Sharing information creates a sense of control and connection during uncertain times. But it also means that false or misleading content can spread rapidly.
 
 Research has identified several key drivers of unverified information sharing. **Perceived severity** plays a major role: when people believe a threat is serious, they're more motivated to share warnings, even if those warnings haven't been verified (Zhang et al., 2024). **Herding behaviour** is another factor, when people see others sharing information, they're more likely to share it themselves, discounting their own judgment in favour of following the crowd. And **anxiety**, which is often triggered by information overload itself, leads people to share content impulsively as a way of coping with emotional distress.
 
@@ -127,7 +127,7 @@ This brings us to an uncomfortable conclusion: **meaningful improvement likely r
 
 Researchers have called for increased monitoring and regulation including requirements for algorithmic transparency, more robust content moderation, and accountability for harmful design choices (Denniss & Lindberg, 2025; Clemons et al., 2025). Some have suggested international treaty frameworks similar to tobacco control might be necessary to address what amounts to a global public health crisis.
 
-**The evidence supports this escalation.** Just as we didn't solve air pollution by teaching people to hold their breath, we won't solve information overload by teaching people to think harder. We need digital filters to become standard, just as physical filters became mandatory for cigarettes and catalytic converters for cars. When human cognitive architecture meets digitally engineered environments designed to maximize engagement, individual willpower is not a match for structural incentives.
+**The evidence supports this escalation.** Just as we didn't solve air pollution by teaching people to hold their breath, we won't solve information overload by teaching people to think harder. We need digital filters to become standard, just as physical filters became mandatory for cigarettes and catalytic converters for cars. When human cognitive architecture meets digitally engineered environments designed to maximise engagement, individual willpower is not a match for structural incentives.
 
 This isn't to say individual strategies are worthless. They help people cope in the short term. But if we're serious about addressing information overload and its consequences, the research points clearly toward systemic intervention as the primary solution, with education and personal strategies as important but secondary supports.
 
@@ -172,8 +172,6 @@ Eppler, M. J., & Mengis, J. (2004). The concept of information overload: A revie
 
 Huang, Q., Lei, S., & Ni, B. (2022). Perceived information overload and unverified information sharing on WeChat amid the COVID-19 pandemic: A moderated mediation model of anxiety and perceived herd. *Frontiers in Psychology*, *13*, 837820. [https://doi.org/10.3389/fpsyg.2022.837820](https://doi.org/10.3389/fpsyg.2022.837820)
 
-Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica*, *47*(2), 263-291.
-
 Meshi, D., & Molina, M. D. (2025). Problematic social media use is associated with believing in and engaging with fake news. *PLOS ONE*, *20*(5), e0321361. [https://doi.org/10.1371/journal.pone.0321361](https://doi.org/10.1371/journal.pone.0321361)
 
 Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, *63*(2), 81-97. [https://doi.org/10.1037/h0043158](https://doi.org/10.1037/h0043158)
@@ -182,11 +180,11 @@ Misuraca, R., Ferrara, A., & Ferrara, E. (2024). On the advantages and disadvant
 
 Muchnik, L., Aral, S., & Taylor, S. J. (2013). Social influence bias: A randomized experiment. *Science*, *341*(6146), 647-651. [https://doi.org/10.1126/science.1240466](https://doi.org/10.1126/science.1240466)
 
-Nguyen, T. V., Ryan, R. M., & Deci, E. L. (2025). Feeds, feelings, and focus: A systematic review and meta-analysis examining the cognitive and mental health correlates of short-form video use. *Journal of Behavioral Addictions*, *14*(1), 1-23. [https://doi.org/10.1037/bul0000498](https://doi.org/10.1037/bul0000498)
-
-Schemmer, M., Heinz, D., Baier, L., Vössing, M., & Kühl, N. (2021). Conceptualizing digital resilience for AI-based information systems. In *Proceedings of the 29th European Conference on Information Systems (ECIS)*. [https://aisel.aisnet.org/ecis2021_rip/44](https://aisel.aisnet.org/ecis2021_rip/44)
+Nguyen, T. V., Ryan, R. M., & Deci, E. L. (2025). Feeds, feelings, and focus: A systematic review and meta-analysis examining the cognitive and mental health correlates of short-form video use. *Psychological Bulletin*, *151*(9), 1125–1146. [https://doi.org/10.1037/bul0000498](https://doi.org/10.1037/bul0000498)
 
 Shahrzadi, L., Mansouri, A., & Nikakhlag, S. (2024). Causes, consequences, and strategies to deal with information overload: A scoping review. *International Journal of Information Management Data Insights*, *4*, 100261. [https://doi.org/10.1016/j.jjimei.2024.100261](https://doi.org/10.1016/j.jjimei.2024.100261)
+
+Shirky, C. (2008, September 20). Web 2.0 Expo NY: Clay Shirky (shirky.com) it's not information overload. It's filter failure [Video]. YouTube. [https://www.youtube.com/watch?v=LabqeJEOQyI](https://www.youtube.com/watch?v=LabqeJEOQyI)
 
 Simon, H. A. (1955). A behavioral model of rational choice. *The Quarterly Journal of Economics*, *69*(1), 99-118. [https://doi.org/10.2307/1884852](https://doi.org/10.2307/1884852)
 
@@ -195,7 +193,5 @@ Steyvers, M., & Kumar, A. (2024). Three challenges for AI-assisted decision-maki
 Thomas, A. G., Finkel, E. J., & Eastwick, P. W. (2025). Decision-making on dating apps: Is swiping more, less, and swiping right wrong? *Media Psychology*. [https://doi.org/10.1080/15213269.2025.2555430](https://doi.org/10.1080/15213269.2025.2555430)
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. [https://www.jstor.org/stable/1738360](https://www.jstor.org/stable/1738360)
-
-Yu, L., Chen, X., & Wang, Y. (2024). Navigating the digital landscape: Challenges and barriers to effective information use on the internet. *Encyclopedia*, *4*(4), 1665-1680. [https://doi.org/10.3390/encyclopedia4040109](https://doi.org/10.3390/encyclopedia4040109)
 
 Zhang, Z., Cheng, Z., Gu, T., & Zhang, Y. (2024). Determinants of users' unverified information sharing on social media platforms: A herding behavior perspective. *Acta Psychologica*, *248*, 104345. [https://doi.org/10.1016/j.actpsy.2024.104345](https://doi.org/10.1016/j.actpsy.2024.104345)
