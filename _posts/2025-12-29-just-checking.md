@@ -78,7 +78,7 @@ This suggests that transparency matters enormously. We adjust our trust based on
 
 Sun et al. (2025) used eye-tracking, ECG, skin conductance and temperature sensors to measure physiological responses to health information. Machine learning models trained on these signals could predict whether someone trusted the information with 73% accuracy. They also found these responses could identify whether someone identified the content as AI or human-generated with 65% accuracy.
 
-These numbers are specific to their lab setting and need validation in real-world contexts, but they point to something important: our bodies respond to credibility cues before our conscious minds catch up. Trust isn't wholly cognitive—it operates at multiple levels simultaneously. Interface design, credibility rules we've carried over from other contexts and unconscious physiological responses are all shaping whether we believe what we're reading.
+These numbers are specific to their lab setting and need validation in real-world contexts, but they point to something important: our bodies respond to credibility cues before our conscious minds catch up. Trust operates at multiple levels simultaneously, beyond just cognition. Interface design, credibility rules we've carried over from other contexts and unconscious physiological responses are all shaping whether we believe what we're reading.
 
 ### The Problem With Saying 'I Don't Know'
 
@@ -109,14 +109,6 @@ Kuznetsova et al. (2025) tested this directly by asking LLM-based chatbots to ve
 If AI systems are going to serve as fact-checkers or information gatekeepers, differential performance across linguistic communities means some populations face higher misinformation vulnerability than others. The populations already disadvantaged by language and resource constraints face systematically worse AI performance, compounding existing information inequalities.
 
 This challenge is further amplified by training data overlap. When multiple AI systems draw from overlapping datasets, the traditional verification strategy of cross-referencing multiple sources becomes less effective. If all the sources consulted the same underlying information (or misinformation), checking three AI-generated answers won't help you triangulate truth. The appearance of independent verification masks shared foundational errors.
-
-### The Psychological Dimension
-
-None of this happens in a vacuum. Our emotional states shape how we seek and evaluate information. Generative AI intersects with these dynamics in complex ways.
-
-Research on anxiety and information seeking—conducted before the current AI moment but directly relevant—shows that anxious individuals seek information more frequently, particularly during periods of uncertainty or perceived threat (Charpentier et al., 2022). This heightened vigilance can be adaptive, but it can also lead to maladaptive patterns like excessive reassurance-seeking or rumination. The covid pandemic provided a real-world laboratory for observing these dynamics at scale.
-
-Generative AI complicates this picture. Anxious seekers, motivated to resolve uncertainty quickly, may be more susceptible to misleading credibility cues. They might accept formal markers of authority (citations, confident tone) without deeper verification. The conversational nature of AI interactions can reduce the critical distance users typically maintain when evaluating sources, creating conditions where emotional rapport competes with scrutiny.
 
 ### What the Research Tells Us (So Far)
 
@@ -213,8 +205,6 @@ We are probably in a bubble. Companies will continue quietly walking back their 
 
 ### References
 Bates, M. J. (1989). The design of browsing and berrypicking techniques for the online search interface. *Online Review, 13*(5), 407–424. [https://doi.org/10.1108/eb024320](https://doi.org/10.1108/eb024320)
-
-Charpentier, C. J., Cogliati Dezza, I., Vellani, V., Globig, L. K., Gädeke, M., & Sharot, T. (2022). Anxiety increases information-seeking in response to large changes. *Scientific Reports, 12*, 7385. [https://doi.org/10.1038/s41598-022-10813-9](https://doi.org/10.1038/s41598-022-10813-9)
 
 Floridi, L. (2024). On the future of content in the age of artificial intelligence: Some implications and directions. *Philosophy & Technology, 37*(3), 112. [https://doi.org/10.1007/s13347-024-00806-z](https://doi.org/10.1007/s13347-024-00806-z)
 
