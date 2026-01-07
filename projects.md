@@ -57,7 +57,7 @@ I love building interactive tools that turn public information into intuitive, h
 
 ### **Technical Toolkit**
 I mainly work with:
-* **Frontend:** Svelte, JavaScript, Tailwind
+* **Frontend:** Svelte, JavaScript, TailwindCSS & DaisyUI
 * **Backend & Data:** Python, Pandas, SQL, D3.js/Chart.js
 
 <style>
