@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Topple
-order: 10
+order: 11
 image: /assets/images/projects/topple-screenshot.png
 description: A physics-based stacking game built with JavaScript and patience.
 project_url: https://topple.playpip.games
