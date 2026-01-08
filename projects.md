@@ -4,7 +4,7 @@ title: Projects
 description: A portfolio of digital tools and wood craft by Lewis Dryburgh, spanning Svelte development, data governance and woodworking.
 ---
 
-I love building interactive tools that turn public information into intuitive, human-centred experiences. I also like making things out of wood.
+I love building interactive tools, especially ones which turn public information into intuitive, human-centred experiences. I also like making things out of wood.
 
 <div class="projects-grid">
 {% assign sorted_projects = site.projects | sort: "order" %}
@@ -80,7 +80,6 @@ I mainly work with:
 }
 
 .project-card:hover {
-  transform: translateY(-4px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
 }
 
