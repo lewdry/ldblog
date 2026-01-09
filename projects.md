@@ -59,6 +59,7 @@ I love building interactive tools, especially ones which turn public information
 I mainly work with:
 * **Frontend:** Svelte, JavaScript, TailwindCSS & DaisyUI
 * **Backend & Data:** Python, Pandas, SQL, D3.js/Chart.js
+* **Automation:** GitHub Actions, Cloudflare Workers
 
 <style>
 .projects-grid {
