@@ -23,6 +23,8 @@ To find out what's happening, I searched for open-access empirical research publ
 
 I think we're in the middle of a serious shift and we're not handling it well.
 
+What I've found is that we're trusting AI systems in ways that don't match their actual reliability. We trust citations that don't exist, we trust conversational interfaces more than accurate ones, and we trust unlabelled AI content more than the same content when we know it came from AI. The research shows our traditional credibility markers (citations, confident tone, apparent understanding) are failing us because they've been decoupled from actual human judgment and comprehension. Different user groups face different vulnerabilities: some trust too much without enough experience to calibrate that trust, while frequent users anthropomorphise systems in ways that blur appropriate boundaries. I'll argue that while individual verification strategies matter, the problem is fundamentally systemic. It requires rethinking interface design, updating our verification practices for AI-mediated information environments, and establishing governance frameworks that address the equity implications of differential AI performance across languages and contexts.
+
 ### Jump to
 
 - [We're Not Searching Anymore, We're Conversing](#were-not-searching-anymore-were-conversing)
