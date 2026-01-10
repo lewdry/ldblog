@@ -32,7 +32,7 @@ Phew. And that's not to mention the slop we're being served by AI, because I'm t
 
 So, waffle aside. I have tried to pull together what I think is a useful review on *the cognitive costs of too much information in the mid-2020s* and what we can do about it. As with my previous review, I have sourced predominantly from recent, open-access research, along with a few classics for grounding.
 
-My main argument here is that contemporary information overload isn't simply about having too much information. It's a mismatch between human cognitive limits and the digital information environments we've built. When this overload interacts with social influence, algorithmic feeds and emotional cues, it degrades our decision quality, makes us rely more heavily on cognitive shortcuts, and accelerates the spread of misinformation. I'll show that while individual coping strategies help at the margins, the evidence increasingly suggests we need structural and regulatory intervention alongside improvements in information literacy to make any real difference.
+My main argument here is that **contemporary information overload isn't simply about having too much information**. It's a mismatch between human cognitive limits and the digital information environments we've built. When this overload interacts with social influence, algorithmic feeds and emotional cues, it degrades our decision quality, makes us rely more heavily on cognitive shortcuts, and accelerates the spread of misinformation. I'll show that while individual coping strategies help at the margins, **the evidence increasingly suggests we need structural and regulatory intervention** alongside improvements in information literacy to make any real difference.
 
 ### Jump To
 
