@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Drowning in Data: How Information Overload is Impacting our Decision-Making"
+title: "Drowning in Data: How Information Overload Is Impacting Our Decision-Making"
 date: 2026-01-06
 description: "A review of recent research on information overload, decision paralysis, cognitive limits and how social media and misinformation affect our ability to make good decisions."
-doi: "10.13140/RG.2.2.14439.51360"
-researchgate_url: "https://doi.org/10.13140/RG.2.2.14439.51360"
 publication_type: scholarly-article
-publisher: "ResearchGate"
 tags: [information-overload, decision-making, cognitive-bias, choice-overload, social-media, misinformation, bounded-rationality, research]
 categories: [Information overload, decision making]
 author: ["Lewis Dryburgh"]
@@ -35,7 +32,7 @@ Phew. And that's not to mention the slop we're being served by AI, because I'm t
 
 So, waffle aside. I have tried to pull together what I think is a useful review on *the cognitive costs of too much information in the mid-2020s* and what we can do about it. As with my previous review, I have sourced predominantly from recent, open-access research, along with a few classics for grounding.
 
-This review argues that contemporary information overload is not simply a problem of too much information, but a systemic mismatch between human cognitive limits and digitally engineered information environments. When overload interacts with social influence, algorithmic amplification and emotional salience, it degrades decision quality, increases reliance on cognitive shortcuts and accelerates the spread of misinformation. While individual coping strategies help at the margins, the evidence increasingly suggests that meaningful improvement requires structural and regulatory intervention alongside improvements in information literacy.
+This review argues that contemporary information overload is not simply a problem of too much information, but a mismatch between human cognitive limits and digital information environments. When overload interacts with social influence, algorithmic feeds and emotional cues, it degrades decision quality, increases reliance on cognitive shortcuts and accelerates the spread of misinformation. While individual coping strategies help at the margins, the evidence increasingly suggests that meaningful improvement requires structural and regulatory intervention alongside improvements in information literacy.
 
 ### Jump To
 
